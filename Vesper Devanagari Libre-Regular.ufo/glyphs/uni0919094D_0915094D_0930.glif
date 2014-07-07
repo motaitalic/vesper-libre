@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D0915094D0930" format="1">
+  <advance width="1302"/>
+  <note>
+    dNgKRa
+  </note>
+  <outline>
+    <contour>
+      <point x="605" y="-266" type="line"/>
+      <point x="160" y="-512" type="line"/>
+      <point x="264" y="-653" type="line"/>
+      <point x="656" y="-335" type="line"/>
+    </contour>
+    <component base="uni0919094D0915"/>
+    <contour>
+      <point x="819" y="1187" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="691" y="-470" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

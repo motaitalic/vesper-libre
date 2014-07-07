@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni094D09300941" format="1">
+  <advance width="512"/>
+  <note>
+    dRakarMatraU
+  </note>
+  <outline>
+    <component base="uni094D0930"/>
+    <component base="uvowelsigndeva" xOffset="24" yOffset="-388"/>
+    <contour>
+      <point x="246" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

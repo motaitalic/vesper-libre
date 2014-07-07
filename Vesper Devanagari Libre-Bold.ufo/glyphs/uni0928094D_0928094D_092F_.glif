@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928094D0928094D092F" format="1">
+  <advance width="1845"/>
+  <note>
+    dNNYa
+  </note>
+  <outline>
+    <component base="uni0928094D0928094D"/>
+    <component base="uni092F" xOffset="559"/>
+    <contour>
+      <point x="1657" y="1187" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1657" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

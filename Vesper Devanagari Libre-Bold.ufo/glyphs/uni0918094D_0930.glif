@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0918094D0930" format="1">
+  <advance width="1366"/>
+  <note>
+    dGhRa
+  </note>
+  <outline>
+    <component base="uni0918094D0930094D"/>
+    <component base="uni093E" xOffset="756"/>
+  </outline>
+</glyph>

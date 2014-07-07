@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D0930" format="1">
+  <advance width="1135"/>
+  <note>
+    dDRa
+  </note>
+  <outline>
+    <contour>
+      <point x="751" y="145" type="line"/>
+      <point x="333" y="-159" type="line"/>
+      <point x="471" y="-292" type="line"/>
+      <point x="820" y="91" type="line"/>
+    </contour>
+    <component base="dadeva"/>
+    <contour>
+      <point x="794" y="-146" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

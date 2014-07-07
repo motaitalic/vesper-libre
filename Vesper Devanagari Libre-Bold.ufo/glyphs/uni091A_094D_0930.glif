@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091A094D0930" format="1">
+  <advance width="1465"/>
+  <note>
+    dCRa
+  </note>
+  <outline>
+    <contour>
+      <point x="1060" y="349" type="line"/>
+      <point x="376" y="-38" type="line"/>
+      <point x="563" y="-250" type="line"/>
+      <point x="1133" y="235" type="line"/>
+    </contour>
+    <component base="cadeva"/>
+  </outline>
+</glyph>

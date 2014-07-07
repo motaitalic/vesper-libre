@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eshortdeva" format="1">
+  <advance width="1114"/>
+  <unicode hex="090E"/>
+  <note>
+    dShortE
+  </note>
+  <outline>
+    <component base="edeva"/>
+    <component base="eshortvowelsigndeva" xOffset="652"/>
+  </outline>
+</glyph>

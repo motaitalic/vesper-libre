@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0924094D0930.alt" format="1">
+  <advance width="1286"/>
+  <note>
+    dTRa.alt
+  </note>
+  <outline>
+    <contour>
+      <point x="878" y="639" type="line"/>
+      <point x="488" y="285" type="line"/>
+      <point x="722" y="123" type="line"/>
+      <point x="988" y="552" type="line"/>
+    </contour>
+    <component base="uni0924094D"/>
+    <component base="uni093E" xOffset="676"/>
+  </outline>
+</glyph>

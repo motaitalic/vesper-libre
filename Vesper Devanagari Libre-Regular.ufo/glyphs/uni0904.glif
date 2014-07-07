@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0904" format="1">
+  <advance width="1441"/>
+  <unicode hex="0904"/>
+  <note>
+    dShortA
+  </note>
+  <outline>
+    <component base="adeva"/>
+    <component base="eshortvowelsigndeva" xOffset="951"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qadeva" format="1">
+  <advance width="1555"/>
+  <unicode hex="0958"/>
+  <note>
+    dQa
+  </note>
+  <outline>
+    <component base="kadeva"/>
+    <component base="nuktadeva" xOffset="-63" yOffset="299"/>
+  </outline>
+</glyph>

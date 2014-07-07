@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.case" format="1">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="265" y="1486" type="line"/>
+      <point x="785" y="1637" type="line"/>
+      <point x="749" y="1811" type="line"/>
+      <point x="577" y="1811" type="line"/>
+      <point x="238" y="1596" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="1384" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

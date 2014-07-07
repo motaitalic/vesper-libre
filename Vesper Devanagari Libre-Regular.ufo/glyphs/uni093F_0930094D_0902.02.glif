@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F0930094D0902.02" format="1">
+  <advance width="475"/>
+  <note>
+    dMatraIRephAnusvara.2
+  </note>
+  <outline>
+    <component base="uni093F.02"/>
+    <component base="uni0930094D0902.imatra" xOffset="924" yOffset="73"/>
+  </outline>
+</glyph>

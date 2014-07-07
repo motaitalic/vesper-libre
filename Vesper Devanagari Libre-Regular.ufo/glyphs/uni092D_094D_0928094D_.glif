@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092D094D0928094D" format="1">
+  <advance width="799"/>
+  <note>
+    dBhN.half
+  </note>
+  <outline>
+    <component base="uni092D094D"/>
+    <component base="nadeva.post2" xOffset="1320" yOffset="10"/>
+  </outline>
+</glyph>

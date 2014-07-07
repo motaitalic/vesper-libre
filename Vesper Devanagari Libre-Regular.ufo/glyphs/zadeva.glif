@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zadeva" format="1">
+  <advance width="1337"/>
+  <unicode hex="095B"/>
+  <note>
+    dZa
+  </note>
+  <outline>
+    <component base="jadeva"/>
+    <component base="nuktadeva" xOffset="-68" yOffset="299"/>
+  </outline>
+</glyph>

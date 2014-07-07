@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0930094D0902.imatra" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="anusvaradeva" xOffset="303" yOffset="284" xScale="0.750" yScale="0.750"/>
+    <component base="uni0930094D"/>
+    <contour>
+      <point x="353" y="1303" type="move" name="_imatra"/>
+    </contour>
+    <contour>
+      <point x="300" y="1187" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

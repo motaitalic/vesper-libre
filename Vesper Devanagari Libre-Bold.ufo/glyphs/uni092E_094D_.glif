@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E094D" format="1">
+  <advance width="818"/>
+  <note>
+    dM.half
+  </note>
+  <outline>
+    <contour>
+      <point x="1042" y="366" type="line"/>
+      <point x="1011" y="576" type="line"/>
+      <point x="561" y="576" type="line"/>
+      <point x="561" y="998" type="line"/>
+      <point x="864" y="998" type="line"/>
+      <point x="819" y="1187" type="line"/>
+      <point x="-52" y="1187" type="line"/>
+      <point x="-1" y="998" type="line"/>
+      <point x="274" y="998" type="line"/>
+      <point x="274" y="576" type="line"/>
+      <point x="265" y="576" type="line" smooth="yes"/>
+      <point x="208" y="576"/>
+      <point x="80" y="569"/>
+      <point x="80" y="515" type="curve" smooth="yes"/>
+      <point x="80" y="384"/>
+      <point x="345" y="130"/>
+      <point x="476" y="130" type="curve" smooth="yes"/>
+      <point x="546" y="130"/>
+      <point x="559" y="277"/>
+      <point x="559" y="366" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

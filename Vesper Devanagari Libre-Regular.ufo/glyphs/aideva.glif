@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aideva" format="1">
+  <advance width="1114"/>
+  <unicode hex="0910"/>
+  <note>
+    dAi
+  </note>
+  <outline>
+    <component base="edeva"/>
+    <component base="evowelsigndeva" xOffset="652"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="danda-deva" format="1">
+  <advance width="702"/>
+  <unicode hex="0964"/>
+  <note>
+    dDanda
+  </note>
+  <outline>
+    <contour>
+      <point x="200" y="1247" type="line"/>
+      <point x="200" y="-167" type="line"/>
+      <point x="502" y="-223" type="line"/>
+      <point x="502" y="1191" type="line"/>
+    </contour>
+  </outline>
+</glyph>

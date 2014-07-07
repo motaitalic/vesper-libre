@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091F094D091F094D092F" format="1">
+  <advance width="2441"/>
+  <note>
+    dTtTtYa
+  </note>
+  <outline>
+    <contour>
+      <point x="2449" y="1187" type="line"/>
+      <point x="1136" y="1187" type="line"/>
+      <point x="1186" y="998" type="line"/>
+      <point x="2020" y="998" type="line"/>
+      <point x="2020" y="517" type="line"/>
+      <point x="1960" y="383"/>
+      <point x="1801" y="288"/>
+      <point x="1658" y="288" type="curve" smooth="yes"/>
+      <point x="1570" y="288"/>
+      <point x="1520" y="294"/>
+      <point x="1450" y="330" type="curve"/>
+      <point x="1672" y="378"/>
+      <point x="1798" y="466"/>
+      <point x="1798" y="622" type="curve" smooth="yes"/>
+      <point x="1798" y="750"/>
+      <point x="1694" y="874"/>
+      <point x="1496" y="874" type="curve" smooth="yes"/>
+      <point x="760" y="874" type="line"/>
+      <point x="819" y="690" type="line"/>
+      <point x="1412" y="690" type="line" smooth="yes"/>
+      <point x="1459" y="690"/>
+      <point x="1551" y="686"/>
+      <point x="1555" y="650" type="curve" smooth="yes"/>
+      <point x="1559" y="616"/>
+      <point x="1397" y="561"/>
+      <point x="1191" y="529" type="curve"/>
+      <point x="1319" y="204"/>
+      <point x="1495" y="40"/>
+      <point x="1744" y="40" type="curve" smooth="yes"/>
+      <point x="1831" y="40"/>
+      <point x="1925" y="58"/>
+      <point x="2020" y="110" type="curve"/>
+      <point x="2020" y="-43" type="line"/>
+      <point x="2317" y="-99" type="line"/>
+      <point x="2317" y="998" type="line"/>
+      <point x="2493" y="998" type="line"/>
+    </contour>
+    <component base="uni091F094D091F"/>
+    <contour>
+      <point x="2161" y="1187" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="2161" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

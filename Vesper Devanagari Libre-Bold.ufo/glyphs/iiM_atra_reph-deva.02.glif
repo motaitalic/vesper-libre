@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph-deva.02" format="1">
+  <advance width="592"/>
+  <note>
+    dMatraIiReph.2
+  </note>
+  <outline>
+    <component base="uni0940.02"/>
+    <component base="uni0930094D" xOffset="-5" yOffset="-50"/>
+  </outline>
+</glyph>

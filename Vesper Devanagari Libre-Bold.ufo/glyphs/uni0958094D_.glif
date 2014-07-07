@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0958094D" format="1">
+  <advance width="1291"/>
+  <note>
+    dQ.half
+  </note>
+  <outline>
+    <component base="uni0915094D"/>
+    <component base="nuktadeva" xOffset="-153" yOffset="216"/>
+  </outline>
+</glyph>

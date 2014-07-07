@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva.post2" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-382" y="479" type="line"/>
+      <point x="-1089" y="32" type="line"/>
+      <point x="-898" y="-170" type="line"/>
+      <point x="-281" y="367" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0920094D0920094D092F" format="1">
+  <advance width="2523"/>
+  <note>
+    dTthTthYa
+  </note>
+  <outline>
+    <component base="uni0920094D0920"/>
+    <component base="ya-deva2.post" xOffset="1270"/>
+  </outline>
+</glyph>

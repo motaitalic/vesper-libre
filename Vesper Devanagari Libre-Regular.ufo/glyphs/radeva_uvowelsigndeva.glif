@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva_uvowelsigndeva" format="1">
+  <advance width="972"/>
+  <note>
+    dRMatraU
+  </note>
+  <outline>
+    <contour>
+      <point x="683" y="1187" type="line"/>
+      <point x="739" y="1053" type="line"/>
+      <point x="1022" y="1053" type="line"/>
+      <point x="973" y="1187" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="520" type="line"/>
+      <point x="532" y="596"/>
+      <point x="609" y="629"/>
+      <point x="696" y="629" type="curve"/>
+      <point x="722" y="630"/>
+      <point x="748" y="627"/>
+      <point x="768" y="613" type="curve"/>
+      <point x="777" y="606"/>
+      <point x="787" y="580"/>
+      <point x="787" y="557" type="curve" smooth="yes"/>
+      <point x="787" y="461"/>
+      <point x="733" y="411"/>
+      <point x="603" y="318" type="curve"/>
+      <point x="747" y="195" type="line"/>
+      <point x="884" y="309"/>
+      <point x="913" y="350"/>
+      <point x="913" y="452" type="curve"/>
+      <point x="912" y="603"/>
+      <point x="774" y="752"/>
+      <point x="618" y="752" type="curve" smooth="yes"/>
+      <point x="521" y="751"/>
+      <point x="457" y="731"/>
+      <point x="370" y="640" type="curve"/>
+    </contour>
+    <component base="radeva"/>
+    <contour>
+      <point x="509" y="1187" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

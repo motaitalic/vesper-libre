@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E094D0930094D" format="1">
+  <advance width="701"/>
+  <note>
+    dMR.half
+  </note>
+  <outline>
+    <contour>
+      <point x="860" y="474" type="line"/>
+      <point x="326" y="66" type="line"/>
+      <point x="455" y="-71" type="line"/>
+      <point x="925" y="394" type="line"/>
+    </contour>
+    <component base="uni092E094D"/>
+  </outline>
+</glyph>

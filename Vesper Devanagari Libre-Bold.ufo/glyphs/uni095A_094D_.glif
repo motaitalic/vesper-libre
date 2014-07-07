@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni095A094D" format="1">
+  <advance width="711"/>
+  <note>
+    dGhh.half
+  </note>
+  <outline>
+    <component base="uni0917094D"/>
+    <component base="nuktadeva" xOffset="141" yOffset="275"/>
+  </outline>
+</glyph>

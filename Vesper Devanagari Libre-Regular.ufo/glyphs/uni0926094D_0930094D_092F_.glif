@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D0930094D092F" format="1">
+  <advance width="1103"/>
+  <note>
+    dDRYa
+  </note>
+  <outline>
+    <contour>
+      <point x="822" y="217" type="line"/>
+      <point x="338" y="-106" type="line"/>
+      <point x="466" y="-228" type="line"/>
+      <point x="883" y="147" type="line"/>
+    </contour>
+    <component base="uni0926094D092F"/>
+  </outline>
+</glyph>

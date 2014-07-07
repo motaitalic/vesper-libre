@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udattadeva" format="1">
+  <advance width="512"/>
+  <unicode hex="0951"/>
+  <note>
+    dUdatta
+  </note>
+  <outline>
+    <contour>
+      <point x="373" y="1256" type="line"/>
+      <point x="373" y="1807" type="line"/>
+      <point x="153" y="1807" type="line"/>
+      <point x="153" y="1256" type="line"/>
+    </contour>
+  </outline>
+</glyph>

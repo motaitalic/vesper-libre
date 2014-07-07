@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092F094D0930094D" format="1">
+  <advance width="672"/>
+  <note>
+    dYR.half
+  </note>
+  <outline>
+    <contour>
+      <point x="778" y="400" type="line"/>
+      <point x="251" y="25" type="line"/>
+      <point x="375" y="-116" type="line"/>
+      <point x="849" y="318" type="line"/>
+    </contour>
+    <component base="uni092F094D"/>
+  </outline>
+</glyph>

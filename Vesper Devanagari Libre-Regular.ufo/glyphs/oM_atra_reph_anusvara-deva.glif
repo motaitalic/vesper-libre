@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oMatra_reph_anusvara-deva" format="1">
+  <advance width="504"/>
+  <note>
+    dMatraORephAnusvara
+  </note>
+  <outline>
+    <component base="uni093E"/>
+    <component base="uni09470930094D0902" xOffset="7"/>
+  </outline>
+</glyph>

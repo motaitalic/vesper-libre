@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="1">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="238" y="1540" type="line"/>
+      <point x="358" y="1540"/>
+      <point x="603" y="1543"/>
+      <point x="758" y="1552" type="curve"/>
+      <point x="781" y="1671" type="line"/>
+      <point x="266" y="1671" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="1384" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

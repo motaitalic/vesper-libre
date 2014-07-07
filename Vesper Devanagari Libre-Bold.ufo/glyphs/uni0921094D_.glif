@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0921094D" format="1">
+  <advance width="1303"/>
+  <outline>
+    <component base="ddadeva"/>
+    <component base="viramadeva" xOffset="554" yOffset="-30"/>
+  </outline>
+</glyph>
