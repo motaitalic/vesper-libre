@@ -7,7 +7,7 @@
   </note>
   <outline>
     <component base="aadeva"/>
-    <component base="ecandravowelsigndeva" xOffset="1523"/>
+    <component base="ecandravowelsigndeva" xOffset="1512"/>
     <contour>
       <point x="1721" y="1397" type="move" name="top"/>
     </contour>
