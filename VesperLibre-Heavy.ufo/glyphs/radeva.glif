@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva" format="1">
+  <advance width="811"/>
+  <unicode hex="0930"/>
+  <outline>
+    <contour>
+      <point x="702" y="830"/>
+      <point x="694" y="907"/>
+      <point x="663" y="998" type="curve"/>
+      <point x="863" y="998" type="line"/>
+      <point x="818" y="1187" type="line"/>
+      <point x="-52" y="1187" type="line"/>
+      <point x="-1" y="998" type="line"/>
+      <point x="447" y="998" type="line"/>
+      <point x="452" y="966"/>
+      <point x="455" y="936"/>
+      <point x="455" y="908" type="curve" smooth="yes"/>
+      <point x="456" y="819"/>
+      <point x="416" y="733"/>
+      <point x="299" y="658" type="curve"/>
+      <point x="204" y="716" type="line"/>
+      <point x="36" y="615" type="line"/>
+      <point x="192" y="258"/>
+      <point x="354" y="86"/>
+      <point x="592" y="-126" type="curve"/>
+      <point x="750" y="117" type="line"/>
+      <point x="615" y="167"/>
+      <point x="497" y="203"/>
+      <point x="344" y="326" type="curve"/>
+      <point x="658" y="467"/>
+      <point x="702" y="609"/>
+      <point x="702" y="772" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

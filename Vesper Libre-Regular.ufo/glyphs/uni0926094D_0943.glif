@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0926094D0943" format="1">
-  <advance width="1132"/>
-  <outline>
-    <component base="dadeva"/>
-    <component base="rvocalicvowelsigndeva" xOffset="740" yOffset="-69"/>
-  </outline>
-</glyph>

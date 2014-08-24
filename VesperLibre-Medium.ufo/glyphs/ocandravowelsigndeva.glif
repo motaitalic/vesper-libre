@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocandravowelsigndeva" format="1">
+  <advance width="544"/>
+  <unicode hex="0949"/>
+  <outline>
+    <contour>
+      <point x="-64" y="1574" type="line"/>
+      <point x="23" y="1395"/>
+      <point x="163" y="1302"/>
+      <point x="300" y="1302" type="curve" smooth="yes"/>
+      <point x="423" y="1302"/>
+      <point x="529" y="1360"/>
+      <point x="615" y="1507" type="curve"/>
+      <point x="482" y="1635" type="line"/>
+      <point x="416" y="1531"/>
+      <point x="340" y="1457"/>
+      <point x="248" y="1456" type="curve" smooth="yes"/>
+      <point x="172" y="1456"/>
+      <point x="103" y="1479"/>
+      <point x="11" y="1618" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-9" y="1032" type="line"/>
+      <point x="176" y="1032" type="line"/>
+      <point x="176" y="-41" type="line"/>
+      <point x="385" y="-98" type="line"/>
+      <point x="385" y="1032" type="line"/>
+      <point x="596" y="1032" type="line"/>
+      <point x="549" y="1187" type="line"/>
+      <point x="-60" y="1187" type="line"/>
+    </contour>
+  </outline>
+</glyph>

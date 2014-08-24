@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnnadeva" format="1">
+  <advance width="1158"/>
+  <unicode hex="0929"/>
+  <outline>
+    <contour>
+      <point x="772" y="534" type="line"/>
+      <point x="772" y="-40" type="line"/>
+      <point x="981" y="-101" type="line"/>
+      <point x="981" y="1032" type="line"/>
+      <point x="1210" y="1032" type="line"/>
+      <point x="1161" y="1187" type="line"/>
+      <point x="-52" y="1187" type="line"/>
+      <point x="0" y="1032" type="line"/>
+      <point x="772" y="1032" type="line"/>
+      <point x="772" y="699" type="line"/>
+      <point x="239" y="699" type="line" smooth="yes"/>
+      <point x="190" y="699"/>
+      <point x="140" y="697"/>
+      <point x="108" y="688" type="curve" smooth="yes"/>
+      <point x="86" y="681"/>
+      <point x="78" y="662"/>
+      <point x="78" y="646" type="curve" smooth="yes"/>
+      <point x="78" y="533"/>
+      <point x="208" y="359"/>
+      <point x="309" y="320" type="curve"/>
+      <point x="316" y="317"/>
+      <point x="326" y="315"/>
+      <point x="335" y="315" type="curve" smooth="yes"/>
+      <point x="347" y="315"/>
+      <point x="358" y="317"/>
+      <point x="367" y="325" type="curve"/>
+      <point x="406" y="355"/>
+      <point x="424" y="465"/>
+      <point x="430" y="534" type="curve"/>
+    </contour>
+    <contour>
+      <point x="220" y="137"/>
+      <point x="109" y="44"/>
+      <point x="109" y="-11" type="curve" smooth="yes"/>
+      <point x="109" y="-46"/>
+      <point x="209" y="-162"/>
+      <point x="255" y="-162" type="curve" smooth="yes"/>
+      <point x="293" y="-162"/>
+      <point x="407" y="-65"/>
+      <point x="407" y="-13" type="curve" smooth="yes"/>
+      <point x="407" y="17"/>
+      <point x="312" y="137"/>
+      <point x="259" y="137" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

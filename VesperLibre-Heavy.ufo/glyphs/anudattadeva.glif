@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anudattadeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0952"/>
+  <outline>
+    <contour>
+      <point x="-121" y="-425" type="line"/>
+      <point x="-121" y="-247" type="line"/>
+      <point x="-706" y="-247" type="line"/>
+      <point x="-706" y="-425" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jadeva_viramadeva" format="1">
+  <advance width="1013"/>
+  <outline>
+    <contour>
+      <point x="-53" y="1187" type="line"/>
+      <point x="-1" y="1032" type="line"/>
+      <point x="1062" y="1032" type="line"/>
+      <point x="1014" y="1187" type="line"/>
+    </contour>
+    <contour>
+      <point x="1257" y="620" type="line"/>
+      <point x="1209" y="781" type="line"/>
+      <point x="454" y="781" type="line"/>
+      <point x="490" y="662" type="line"/>
+      <point x="625" y="606"/>
+      <point x="704" y="542"/>
+      <point x="704" y="437" type="curve" smooth="yes"/>
+      <point x="704" y="352"/>
+      <point x="650" y="284"/>
+      <point x="545" y="284" type="curve" smooth="yes"/>
+      <point x="380" y="284"/>
+      <point x="245" y="456"/>
+      <point x="146" y="737" type="curve"/>
+      <point x="40" y="702" type="line"/>
+      <point x="150" y="307"/>
+      <point x="319" y="83"/>
+      <point x="603" y="83" type="curve" smooth="yes"/>
+      <point x="785" y="83"/>
+      <point x="918" y="193"/>
+      <point x="918" y="360" type="curve" smooth="yes"/>
+      <point x="918" y="463"/>
+      <point x="857" y="555"/>
+      <point x="731" y="620" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

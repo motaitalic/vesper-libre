@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uvowelsigndeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0941"/>
+  <outline>
+    <contour>
+      <point x="125" y="-218" type="line"/>
+      <point x="207" y="-158"/>
+      <point x="262" y="-146"/>
+      <point x="309" y="-146" type="curve" smooth="yes"/>
+      <point x="359" y="-146"/>
+      <point x="392" y="-159"/>
+      <point x="403" y="-175" type="curve" smooth="yes"/>
+      <point x="408" y="-182"/>
+      <point x="413" y="-208"/>
+      <point x="412" y="-227" type="curve" smooth="yes"/>
+      <point x="410" y="-312"/>
+      <point x="339" y="-386"/>
+      <point x="209" y="-386" type="curve" smooth="yes"/>
+      <point x="15" y="-386"/>
+      <point x="-102" y="-268"/>
+      <point x="-182" y="-171" type="curve"/>
+      <point x="-263" y="-230" type="line"/>
+      <point x="-196" y="-335"/>
+      <point x="-30" y="-541"/>
+      <point x="250" y="-541" type="curve" smooth="yes"/>
+      <point x="423" y="-541"/>
+      <point x="540" y="-439"/>
+      <point x="540" y="-290" type="curve" smooth="yes"/>
+      <point x="540" y="-145"/>
+      <point x="386" y="5"/>
+      <point x="232" y="5" type="curve" smooth="yes"/>
+      <point x="155" y="5"/>
+      <point x="89" y="-9"/>
+      <point x="11" y="-75" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

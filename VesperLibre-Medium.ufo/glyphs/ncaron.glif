@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="1">
+  <advance width="1257"/>
+  <unicode hex="0148"/>
+  <outline>
+    <contour>
+      <point x="890" y="1402" type="line"/>
+      <point x="646" y="1252" type="line"/>
+      <point x="402" y="1402" type="line"/>
+      <point x="310" y="1346" type="line"/>
+      <point x="571" y="1083" type="line"/>
+      <point x="722" y="1083" type="line"/>
+      <point x="982" y="1346" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="856" type="line"/>
+      <point x="205" y="772" type="line"/>
+      <point x="205" y="141" type="line"/>
+      <point x="68" y="82" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="600" y="73" type="line"/>
+      <point x="448" y="131" type="line"/>
+      <point x="447" y="698" type="line"/>
+      <point x="447" y="721"/>
+      <point x="441" y="752"/>
+      <point x="441" y="752" type="curve"/>
+      <point x="515" y="778"/>
+      <point x="667" y="808"/>
+      <point x="730" y="808" type="curve" smooth="yes"/>
+      <point x="745" y="808"/>
+      <point x="756" y="804"/>
+      <point x="768" y="795" type="curve"/>
+      <point x="802" y="767"/>
+      <point x="841" y="690"/>
+      <point x="841" y="551" type="curve" smooth="yes"/>
+      <point x="841" y="138" type="line"/>
+      <point x="746" y="79" type="line"/>
+      <point x="730" y="0" type="line"/>
+      <point x="1228" y="0" type="line"/>
+      <point x="1244" y="74" type="line"/>
+      <point x="1083" y="131" type="line"/>
+      <point x="1083" y="619" type="line" smooth="yes"/>
+      <point x="1083" y="900"/>
+      <point x="939" y="974"/>
+      <point x="810" y="974" type="curve" smooth="yes"/>
+      <point x="694" y="974"/>
+      <point x="551" y="901"/>
+      <point x="427" y="803" type="curve"/>
+      <point x="380" y="965" type="line"/>
+      <point x="66" y="903" type="line"/>
+    </contour>
+  </outline>
+</glyph>
