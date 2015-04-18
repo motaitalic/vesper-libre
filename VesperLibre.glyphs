@@ -31,7 +31,7 @@ code = "aCandra-deva a-deva aa-deva ii_anusvara-deva eCandra-deva oCandra-deva a
 name = DevaFullforms;
 }
 );
-copyright = "Copyright (c) 2014 by Robert Keller.";
+copyright = "Copyright (c) 2007, Robert Keller (www.motaitalic.com)";
 customParameters = (
 {
 name = vendorID;
@@ -48,9 +48,14 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
-date = "2015-03-23 17:20:56 +0000";
+date = "2015-04-18 11:21:47 +0000";
 designer = "Robert Keller & Kimya Gandhi";
 designerURL = www.motaitalic.com;
 familyName = "Vesper Libre";
@@ -172,11 +177,11 @@ value = 1187;
 },
 {
 name = typoAscender;
-value = 1922;
+value = "2330";
 },
 {
 name = typoDescender;
-value = "-1005";
+value = "-1550";
 },
 {
 name = typoLineGap;
@@ -184,19 +189,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1922;
+value = "2330";
 },
 {
 name = winDescent;
-value = "-1005";
+value = "-1550";
 },
 {
 name = vheaVertAscender;
-value = 1922;
+value = "2330";
 },
 {
 name = vheaVertDescender;
-value = "-1005";
+value = "-1550";
 },
 {
 name = vheaVertLineGap;
@@ -259,11 +264,11 @@ value = 1187;
 },
 {
 name = typoAscender;
-value = 1922;
+value = "2330";
 },
 {
 name = typoDescender;
-value = "-1005";
+value = "-1550";
 },
 {
 name = typoLineGap;
@@ -271,19 +276,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1922;
+value = "2330";
 },
 {
 name = winDescent;
-value = "-1005";
+value = "-1550";
 },
 {
 name = vheaVertAscender;
-value = 1922;
+value = "2330";
 },
 {
 name = vheaVertDescender;
-value = "-1005";
+value = "-1550";
 },
 {
 name = vheaVertLineGap;
@@ -354,12 +359,12 @@ position = "{725, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{1348, 10}";
-},
-{
 name = bottom;
 position = "{672, 0}";
+},
+{
+name = ogonek;
+position = "{1348, 10}";
 },
 {
 name = top;
@@ -459,12 +464,12 @@ position = "{649, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{1202, 10}";
-},
-{
 name = bottom;
 position = "{662, 0}";
+},
+{
+name = ogonek;
+position = "{1202, 10}";
 },
 {
 name = top;
@@ -1605,12 +1610,12 @@ position = "{727, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{727, 1384}";
-},
-{
 name = bottom;
 position = "{727, 0}";
+},
+{
+name = top;
+position = "{727, 1384}";
 }
 );
 paths = (
@@ -1722,12 +1727,12 @@ position = "{610, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{610, 1384}";
-},
-{
 name = bottom;
 position = "{610, 0}";
+},
+{
+name = top;
+position = "{610, 1384}";
 }
 );
 paths = (
@@ -1848,12 +1853,12 @@ position = "{756, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{756, 1384}";
-},
-{
 name = bottom;
 position = "{772, 0}";
+},
+{
+name = top;
+position = "{756, 1384}";
 }
 );
 paths = (
@@ -1965,12 +1970,12 @@ position = "{703, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{703, 1384}";
-},
-{
 name = bottom;
 position = "{714, 0}";
+},
+{
+name = top;
+position = "{703, 1384}";
 }
 );
 paths = (
@@ -2272,12 +2277,12 @@ position = "{716, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{786, 692}";
-},
-{
 name = bottom;
 position = "{772, 0}";
+},
+{
+name = center;
+position = "{786, 692}";
 },
 {
 name = top;
@@ -2389,12 +2394,12 @@ position = "{646, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{714, 692}";
-},
-{
 name = bottom;
 position = "{674, 0}";
+},
+{
+name = center;
+position = "{714, 692}";
 },
 {
 name = top;
@@ -2706,12 +2711,12 @@ position = "{686, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{1098, 0}";
-},
-{
 name = bottom;
 position = "{716, 0}";
+},
+{
+name = ogonek;
+position = "{1098, 0}";
 },
 {
 name = top;
@@ -2813,12 +2818,12 @@ position = "{623, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{980, 0}";
-},
-{
 name = bottom;
 position = "{703, 0}";
+},
+{
+name = ogonek;
+position = "{980, 0}";
 },
 {
 name = top;
@@ -3580,12 +3585,12 @@ position = "{796, 1382}";
 background = {
 anchors = (
 {
-name = top;
-position = "{796, 1382}";
-},
-{
 name = bottom;
 position = "{856, 0}";
+},
+{
+name = top;
+position = "{796, 1382}";
 }
 );
 paths = (
@@ -3715,12 +3720,12 @@ position = "{750, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{750, 1384}";
-},
-{
 name = bottom;
 position = "{750, 0}";
+},
+{
+name = top;
+position = "{750, 1384}";
 }
 );
 paths = (
@@ -3981,12 +3986,12 @@ position = "{873, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{873, 692}";
-},
-{
 name = bottom;
 position = "{870, 0}";
+},
+{
+name = center;
+position = "{873, 692}";
 },
 {
 name = top;
@@ -4090,12 +4095,12 @@ position = "{771, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{771, 692}";
-},
-{
 name = bottom;
 position = "{764, 0}";
+},
+{
+name = center;
+position = "{771, 692}";
 },
 {
 name = top;
@@ -4208,12 +4213,12 @@ position = "{431, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{841, 10}";
-},
-{
 name = bottom;
 position = "{431, 0}";
+},
+{
+name = ogonek;
+position = "{841, 10}";
 },
 {
 name = top;
@@ -4281,12 +4286,12 @@ position = "{360, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{518, 10}";
-},
-{
 name = bottom;
 position = "{359, 0}";
+},
+{
+name = ogonek;
+position = "{518, 10}";
 },
 {
 name = top;
@@ -5033,12 +5038,12 @@ position = "{833, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{833, 1384}";
-},
-{
 name = bottom;
 position = "{805, 0}";
+},
+{
+name = top;
+position = "{833, 1384}";
 }
 );
 paths = (
@@ -5134,12 +5139,12 @@ position = "{705, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{705, 1384}";
-},
-{
 name = bottom;
 position = "{705, 0}";
+},
+{
+name = top;
+position = "{705, 1384}";
 }
 );
 paths = (
@@ -5307,12 +5312,12 @@ position = "{842, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{452, 1384}";
-},
-{
 name = bottom;
 position = "{647, 0}";
+},
+{
+name = top;
+position = "{452, 1384}";
 },
 {
 name = topright;
@@ -5384,12 +5389,12 @@ position = "{760, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{376, 1384}";
-},
-{
 name = bottom;
 position = "{596, 0}";
+},
+{
+name = top;
+position = "{376, 1384}";
 },
 {
 name = topright;
@@ -5730,12 +5735,12 @@ position = "{1032, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1032, 1384}";
-},
-{
 name = bottom;
 position = "{986, 0}";
+},
+{
+name = top;
+position = "{1032, 1384}";
 }
 );
 paths = (
@@ -5829,12 +5834,12 @@ position = "{929, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{929, 1384}";
-},
-{
 name = bottom;
 position = "{930, 0}";
+},
+{
+name = top;
+position = "{929, 1384}";
 }
 );
 paths = (
@@ -5937,12 +5942,12 @@ position = "{782, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{782, 1384}";
-},
-{
 name = bottom;
 position = "{806, 0}";
+},
+{
+name = top;
+position = "{782, 1384}";
 }
 );
 paths = (
@@ -6026,12 +6031,12 @@ position = "{763, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{763, 1384}";
-},
-{
 name = bottom;
 position = "{763, 0}";
+},
+{
+name = top;
+position = "{763, 1384}";
 }
 );
 paths = (
@@ -6360,12 +6365,12 @@ position = "{783, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{783, 1384}";
-},
-{
 name = bottom;
 position = "{770, 0}";
+},
+{
+name = top;
+position = "{783, 1384}";
 }
 );
 paths = (
@@ -6483,12 +6488,12 @@ position = "{705, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{705, 1384}";
-},
-{
 name = bottom;
 position = "{700, 0}";
+},
+{
+name = top;
+position = "{705, 1384}";
 }
 );
 paths = (
@@ -8105,12 +8110,12 @@ position = "{679, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{679, 1384}";
-},
-{
 name = bottom;
 position = "{777, 0}";
+},
+{
+name = top;
+position = "{679, 1384}";
 }
 );
 paths = (
@@ -8208,12 +8213,12 @@ position = "{597, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{597, 1384}";
-},
-{
 name = bottom;
 position = "{657, 0}";
+},
+{
+name = top;
+position = "{597, 1384}";
 }
 );
 paths = (
@@ -8497,12 +8502,12 @@ position = "{594, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{594, 1384}";
-},
-{
 name = bottom;
 position = "{596, 0}";
+},
+{
+name = top;
+position = "{594, 1384}";
 }
 );
 paths = (
@@ -8636,12 +8641,12 @@ position = "{530, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{530, 1384}";
-},
-{
 name = bottom;
 position = "{530, 0}";
+},
+{
+name = top;
+position = "{530, 1384}";
 }
 );
 paths = (
@@ -9025,12 +9030,12 @@ position = "{733, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{733, 692}";
-},
-{
 name = bottom;
 position = "{729, 0}";
+},
+{
+name = center;
+position = "{733, 692}";
 },
 {
 name = top;
@@ -9110,12 +9115,12 @@ position = "{677, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{677, 692}";
-},
-{
 name = bottom;
 position = "{673, 0}";
+},
+{
+name = center;
+position = "{677, 692}";
 },
 {
 name = top;
@@ -9322,12 +9327,12 @@ position = "{854, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{1022, 0}";
-},
-{
 name = bottom;
 position = "{862, 0}";
+},
+{
+name = ogonek;
+position = "{1022, 0}";
 },
 {
 name = top;
@@ -9429,12 +9434,12 @@ position = "{773, 1384}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{949, 10}";
-},
-{
 name = bottom;
 position = "{760, 0}";
+},
+{
+name = ogonek;
+position = "{949, 10}";
 },
 {
 name = top;
@@ -10756,12 +10761,12 @@ position = "{690, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{690, 1384}";
-},
-{
 name = bottom;
 position = "{674, 0}";
+},
+{
+name = top;
+position = "{690, 1384}";
 }
 );
 paths = (
@@ -10843,12 +10848,12 @@ position = "{610, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{610, 1384}";
-},
-{
 name = bottom;
 position = "{606, 0}";
+},
+{
+name = top;
+position = "{610, 1384}";
 }
 );
 paths = (
@@ -11057,12 +11062,12 @@ position = "{682, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{682, 1384}";
-},
-{
 name = bottom;
 position = "{626, 0}";
+},
+{
+name = top;
+position = "{682, 1384}";
 }
 );
 paths = (
@@ -11128,12 +11133,12 @@ position = "{625, 1384}";
 background = {
 anchors = (
 {
-name = top;
-position = "{625, 1384}";
-},
-{
 name = bottom;
 position = "{636, 0}";
+},
+{
+name = top;
+position = "{625, 1384}";
 }
 );
 paths = (
@@ -11389,12 +11394,12 @@ position = "{541, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{989, 0}";
-},
-{
 name = bottom;
 position = "{586, 0}";
+},
+{
+name = ogonek;
+position = "{989, 0}";
 },
 {
 name = top;
@@ -11584,12 +11589,12 @@ position = "{458, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{824, 10}";
-},
-{
 name = bottom;
 position = "{476, 0}";
+},
+{
+name = ogonek;
+position = "{824, 10}";
 },
 {
 name = top;
@@ -13405,12 +13410,12 @@ position = "{517, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{517, 950}";
-},
-{
 name = bottom;
 position = "{546, 0}";
+},
+{
+name = top;
+position = "{517, 950}";
 }
 );
 paths = (
@@ -13522,12 +13527,12 @@ position = "{491, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{491, 950}";
-},
-{
 name = bottom;
 position = "{497, 0}";
+},
+{
+name = top;
+position = "{491, 950}";
 }
 );
 paths = (
@@ -13833,6 +13838,10 @@ position = "{1079, 1472}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{628, 0}";
+},
+{
 name = center;
 position = "{628, 475}";
 },
@@ -13843,10 +13852,6 @@ position = "{628, 950}";
 {
 name = topright;
 position = "{1079, 1472}";
-},
-{
-name = bottom;
-position = "{628, 0}";
 }
 );
 paths = (
@@ -13994,6 +13999,10 @@ position = "{916, 1472}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{552, 0}";
+},
+{
 name = center;
 position = "{552, 475}";
 },
@@ -14004,10 +14013,6 @@ position = "{552, 950}";
 {
 name = topright;
 position = "{916, 1472}";
-},
-{
-name = bottom;
-position = "{552, 0}";
 }
 );
 paths = (
@@ -14597,12 +14602,12 @@ position = "{545, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{941, 10}";
-},
-{
 name = bottom;
 position = "{545, 0}";
+},
+{
+name = ogonek;
+position = "{941, 10}";
 },
 {
 name = top;
@@ -14720,12 +14725,12 @@ position = "{481, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{829, 10}";
-},
-{
 name = bottom;
 position = "{461, 0}";
+},
+{
+name = ogonek;
+position = "{829, 10}";
 },
 {
 name = top;
@@ -16418,12 +16423,12 @@ position = "{320, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{667, 475}";
-},
-{
 name = bottom;
 position = "{676, 0}";
+},
+{
+name = center;
+position = "{667, 475}";
 },
 {
 name = top;
@@ -16543,12 +16548,12 @@ position = "{252, 1384}";
 background = {
 anchors = (
 {
-name = center;
-position = "{590, 475}";
-},
-{
 name = bottom;
 position = "{600, 0}";
+},
+{
+name = center;
+position = "{590, 475}";
 },
 {
 name = top;
@@ -16860,12 +16865,12 @@ position = "{340, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{493, 0}";
-},
-{
 name = bottom;
 position = "{355, 0}";
+},
+{
+name = ogonek;
+position = "{493, 0}";
 },
 {
 name = top;
@@ -16929,12 +16934,12 @@ position = "{285, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{415, 0}";
-},
-{
 name = bottom;
 position = "{315, 0}";
+},
+{
+name = ogonek;
+position = "{415, 0}";
 },
 {
 name = top;
@@ -18002,12 +18007,12 @@ position = "{516, 1447}";
 background = {
 anchors = (
 {
-name = top;
-position = "{324, 1404}";
-},
-{
 name = bottom;
 position = "{353, 0}";
+},
+{
+name = top;
+position = "{324, 1404}";
 },
 {
 name = topright;
@@ -18071,12 +18076,12 @@ position = "{372, 1447}";
 background = {
 anchors = (
 {
-name = top;
-position = "{267, 1384}";
-},
-{
 name = bottom;
 position = "{302, 0}";
+},
+{
+name = top;
+position = "{267, 1384}";
 },
 {
 name = topright;
@@ -18411,12 +18416,12 @@ position = "{978, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{978, 950}";
-},
-{
 name = bottom;
 position = "{1005, 0}";
+},
+{
+name = top;
+position = "{978, 950}";
 }
 );
 paths = (
@@ -18578,12 +18583,12 @@ position = "{901, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{901, 950}";
-},
-{
 name = bottom;
 position = "{918, 0}";
+},
+{
+name = top;
+position = "{901, 950}";
 }
 );
 paths = (
@@ -18754,12 +18759,12 @@ position = "{720, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{720, 950}";
-},
-{
 name = bottom;
 position = "{720, 0}";
+},
+{
+name = top;
+position = "{720, 950}";
 }
 );
 paths = (
@@ -18867,12 +18872,12 @@ position = "{600, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{600, 950}";
-},
-{
 name = bottom;
 position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 950}";
 }
 );
 paths = (
@@ -19225,12 +19230,12 @@ position = "{571, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{571, 950}";
-},
-{
 name = bottom;
 position = "{580, 0}";
+},
+{
+name = top;
+position = "{571, 950}";
 }
 );
 paths = (
@@ -19336,12 +19341,12 @@ position = "{511, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{511, 950}";
-},
-{
 name = bottom;
 position = "{520, 0}";
+},
+{
+name = top;
+position = "{511, 950}";
 }
 );
 paths = (
@@ -21296,12 +21301,12 @@ position = "{503, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{503, 950}";
-},
-{
 name = bottom;
 position = "{379, 0}";
+},
+{
+name = top;
+position = "{503, 950}";
 }
 );
 paths = (
@@ -21397,12 +21402,12 @@ position = "{412, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{412, 950}";
-},
-{
 name = bottom;
 position = "{311, 0}";
+},
+{
+name = top;
+position = "{412, 950}";
 }
 );
 paths = (
@@ -21684,12 +21689,12 @@ position = "{499, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{499, 950}";
-},
-{
 name = bottom;
 position = "{485, 0}";
+},
+{
+name = top;
+position = "{499, 950}";
 }
 );
 paths = (
@@ -21835,12 +21840,12 @@ position = "{432, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{432, 950}";
-},
-{
 name = bottom;
 position = "{402, 0}";
+},
+{
+name = top;
+position = "{432, 950}";
 }
 );
 paths = (
@@ -22538,12 +22543,12 @@ position = "{428, 475}";
 background = {
 anchors = (
 {
-name = center;
-position = "{428, 475}";
-},
-{
 name = bottom;
 position = "{478, 0}";
+},
+{
+name = center;
+position = "{428, 475}";
 }
 );
 paths = (
@@ -22633,12 +22638,12 @@ position = "{359, 475}";
 background = {
 anchors = (
 {
-name = center;
-position = "{359, 475}";
-},
-{
 name = bottom;
 position = "{429, 0}";
+},
+{
+name = center;
+position = "{359, 475}";
 }
 );
 paths = (
@@ -22923,12 +22928,12 @@ position = "{616, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{1170, 10}";
-},
-{
 name = bottom;
 position = "{672, 0}";
+},
+{
+name = ogonek;
+position = "{1170, 10}";
 },
 {
 name = top;
@@ -23042,12 +23047,12 @@ position = "{560, 950}";
 background = {
 anchors = (
 {
-name = ogonek;
-position = "{1043, 10}";
-},
-{
 name = bottom;
 position = "{572, 0}";
+},
+{
+name = ogonek;
+position = "{1043, 10}";
 },
 {
 name = top;
@@ -24698,12 +24703,12 @@ position = "{523, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{523, 950}";
-},
-{
 name = bottom;
 position = "{540, 0}";
+},
+{
+name = top;
+position = "{523, 950}";
 }
 );
 paths = (
@@ -24767,12 +24772,12 @@ position = "{459.103, 950}";
 background = {
 anchors = (
 {
-name = top;
-position = "{459.103, 950}";
-},
-{
 name = bottom;
 position = "{460, 0}";
+},
+{
+name = top;
+position = "{459.103, 950}";
 }
 );
 paths = (
@@ -26420,6 +26425,10 @@ position = "{1207, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1207, 0}";
+},
+{
 name = candra;
 position = "{932, 1187}";
 },
@@ -26430,10 +26439,6 @@ position = "{123, 0}";
 {
 name = top;
 position = "{1207, 1187}";
-},
-{
-name = bottom;
-position = "{1207, 0}";
 }
 );
 paths = (
@@ -26627,6 +26632,10 @@ position = "{1289, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1289, 0}";
+},
+{
 name = candra;
 position = "{1031, 1187}";
 },
@@ -26637,10 +26646,6 @@ position = "{63, -20}";
 {
 name = top;
 position = "{1289, 1187}";
-},
-{
-name = bottom;
-position = "{1289, 0}";
 }
 );
 paths = (
@@ -26840,12 +26845,12 @@ position = "{1731, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{31, 0}";
-},
-{
 name = bottom;
 position = "{1731, 0}";
+},
+{
+name = nukta;
+position = "{31, 0}";
 },
 {
 name = top;
@@ -26895,12 +26900,12 @@ position = "{1768, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{1, 10}";
-},
-{
 name = bottom;
 position = "{1781, 0}";
+},
+{
+name = nukta;
+position = "{1, 10}";
 },
 {
 name = top;
@@ -26956,12 +26961,12 @@ position = "{664, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{664, 1187}";
-},
-{
 name = candra;
 position = "{531, 1187}";
+},
+{
+name = top;
+position = "{664, 1187}";
 }
 );
 paths = (
@@ -27163,12 +27168,12 @@ position = "{764, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{764, 1187}";
-},
-{
 name = candra;
 position = "{631, 1187}";
+},
+{
+name = top;
+position = "{764, 1187}";
 }
 );
 paths = (
@@ -27504,16 +27509,16 @@ position = "{678, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{678, 1187}";
-},
-{
 name = bottom;
 position = "{618, 0}";
 },
 {
 name = candra;
 position = "{531, 1187}";
+},
+{
+name = top;
+position = "{678, 1187}";
 }
 );
 paths = (
@@ -27639,16 +27644,16 @@ position = "{744, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{744, 1187}";
-},
-{
 name = bottom;
 position = "{648, 0}";
 },
 {
 name = candra;
 position = "{631, 1187}";
+},
+{
+name = top;
+position = "{744, 1187}";
 }
 );
 paths = (
@@ -27784,16 +27789,16 @@ position = "{679, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{679, 1187}";
-},
-{
 name = bottom;
 position = "{629, 0}";
 },
 {
 name = candra;
 position = "{731, 1187}";
+},
+{
+name = top;
+position = "{679, 1187}";
 }
 );
 paths = (
@@ -27975,16 +27980,16 @@ position = "{729, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{729, 1187}";
-},
-{
 name = bottom;
 position = "{648, 0}";
 },
 {
 name = candra;
 position = "{731, 1187}";
+},
+{
+name = top;
+position = "{729, 1187}";
 }
 );
 paths = (
@@ -28176,16 +28181,16 @@ position = "{778, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{778, 1187}";
-},
-{
 name = bottom;
 position = "{778, 0}";
 },
 {
 name = candra;
 position = "{791, 1187}";
+},
+{
+name = top;
+position = "{778, 1187}";
 }
 );
 paths = (
@@ -28357,16 +28362,16 @@ position = "{879, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{879, 1187}";
-},
-{
 name = bottom;
 position = "{881, 0}";
 },
 {
 name = candra;
 position = "{891, 1187}";
+},
+{
+name = top;
+position = "{879, 1187}";
 }
 );
 paths = (
@@ -28548,16 +28553,16 @@ position = "{781, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{781, 1187}";
-},
-{
 name = bottom;
 position = "{781, 0}";
 },
 {
 name = candra;
 position = "{791, 1187}";
+},
+{
+name = top;
+position = "{781, 1187}";
 }
 );
 paths = (
@@ -28743,16 +28748,16 @@ position = "{839, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{839, 1187}";
-},
-{
 name = bottom;
 position = "{841, 0}";
 },
 {
 name = candra;
 position = "{891, 1187}";
+},
+{
+name = top;
+position = "{839, 1187}";
 }
 );
 paths = (
@@ -28948,16 +28953,16 @@ position = "{969, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{969, 1187}";
-},
-{
 name = bottom;
 position = "{1039, 0}";
 },
 {
 name = candra;
 position = "{791, 1187}";
+},
+{
+name = top;
+position = "{969, 1187}";
 }
 );
 paths = (
@@ -29197,16 +29202,16 @@ position = "{989, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{989, 1187}";
-},
-{
 name = bottom;
 position = "{1089, 0}";
 },
 {
 name = candra;
 position = "{891, 1187}";
+},
+{
+name = top;
+position = "{989, 1187}";
 }
 );
 paths = (
@@ -29455,16 +29460,16 @@ position = "{951, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{951, 1187}";
-},
-{
 name = bottom;
 position = "{1039, 0}";
 },
 {
 name = candra;
 position = "{791, 1187}";
+},
+{
+name = top;
+position = "{951, 1187}";
 }
 );
 paths = (
@@ -29766,16 +29771,16 @@ position = "{989, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{989, 1187}";
-},
-{
 name = bottom;
 position = "{1039, 0}";
 },
 {
 name = candra;
 position = "{891, 1187}";
+},
+{
+name = top;
+position = "{989, 1187}";
 }
 );
 paths = (
@@ -30198,12 +30203,12 @@ position = "{878, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{878, 1187}";
-},
-{
 name = candra;
 position = "{591, 1187}";
+},
+{
+name = top;
+position = "{878, 1187}";
 }
 );
 paths = (
@@ -30323,12 +30328,12 @@ position = "{939, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{939, 1187}";
-},
-{
 name = candra;
 position = "{651, 1187}";
+},
+{
+name = top;
+position = "{939, 1187}";
 }
 );
 paths = (
@@ -31338,16 +31343,16 @@ position = "{253, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{253, 1187}";
-},
-{
 name = bottom;
 position = "{253, 0}";
 },
 {
 name = candra;
 position = "{1, 1187}";
+},
+{
+name = top;
+position = "{253, 1187}";
 }
 );
 paths = (
@@ -31403,16 +31408,16 @@ position = "{290, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{290, 1187}";
-},
-{
 name = bottom;
 position = "{290, 0}";
 },
 {
 name = candra;
 position = "{91, 1187}";
+},
+{
+name = top;
+position = "{290, 1187}";
 }
 );
 paths = (
@@ -31473,12 +31478,12 @@ position = "{1166, 1318}";
 background = {
 anchors = (
 {
-name = imatra;
-position = "{1166, 1318}";
-},
-{
 name = candra;
 position = "{1134, 1462}";
+},
+{
+name = imatra;
+position = "{1166, 1318}";
 }
 );
 paths = (
@@ -31580,12 +31585,12 @@ position = "{1351, 1328}";
 background = {
 anchors = (
 {
-name = imatra;
-position = "{1351, 1328}";
-},
-{
 name = candra;
 position = "{1264, 1512}";
+},
+{
+name = imatra;
+position = "{1351, 1328}";
 }
 );
 paths = (
@@ -31924,16 +31929,16 @@ position = "{303, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{418, 1257}";
+},
+{
 name = iimatra;
 position = "{-260, 1187}";
 },
 {
 name = top;
 position = "{303, 1187}";
-},
-{
-name = candra;
-position = "{418, 1257}";
 }
 );
 paths = (
@@ -32035,16 +32040,16 @@ position = "{339, 1127}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{548, 1247}";
+},
+{
 name = iimatra;
 position = "{-290, 1187}";
 },
 {
 name = top;
 position = "{339, 1127}";
-},
-{
-name = candra;
-position = "{548, 1247}";
 }
 );
 paths = (
@@ -32591,12 +32596,12 @@ position = "{475, 1237}";
 background = {
 anchors = (
 {
-name = top;
-position = "{475, 1237}";
-},
-{
 name = candra;
 position = "{468, 1237}";
+},
+{
+name = top;
+position = "{475, 1237}";
 }
 );
 components = (
@@ -32636,12 +32641,12 @@ position = "{585, 1237}";
 background = {
 anchors = (
 {
-name = top;
-position = "{585, 1237}";
-},
-{
 name = candra;
 position = "{608, 1237}";
+},
+{
+name = top;
+position = "{585, 1237}";
 }
 );
 components = (
@@ -33924,16 +33929,16 @@ position = "{940, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{972, 1408}";
+},
+{
 name = imatra;
 position = "{967, 1316}";
 },
 {
 name = top;
 position = "{940, 1286}";
-},
-{
-name = candra;
-position = "{972, 1408}";
 }
 );
 paths = (
@@ -34039,16 +34044,16 @@ position = "{1080, 1266}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1125, 1492}";
+},
+{
 name = imatra;
 position = "{1125, 1325}";
 },
 {
 name = top;
 position = "{1080, 1266}";
-},
-{
-name = candra;
-position = "{1125, 1492}";
 }
 );
 paths = (
@@ -34386,16 +34391,16 @@ position = "{1040, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1056, 1472}";
+},
+{
 name = imatra;
 position = "{1066, 1318}";
 },
 {
 name = top;
 position = "{1040, 1286}";
-},
-{
-name = candra;
-position = "{1056, 1472}";
 }
 );
 paths = (
@@ -34501,16 +34506,16 @@ position = "{1200, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1236, 1472}";
+},
+{
 name = imatra;
 position = "{1238, 1328}";
 },
 {
 name = top;
 position = "{1200, 1276}";
-},
-{
-name = candra;
-position = "{1236, 1472}";
 }
 );
 paths = (
@@ -34624,16 +34629,16 @@ position = "{1240, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1266, 1402}";
+},
+{
 name = imatra;
 position = "{1265, 1319}";
 },
 {
 name = top;
 position = "{1240, 1286}";
-},
-{
-name = candra;
-position = "{1266, 1402}";
 }
 );
 paths = (
@@ -34739,16 +34744,16 @@ position = "{1420, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1456, 1472}";
+},
+{
 name = imatra;
 position = "{1461, 1327}";
 },
 {
 name = top;
 position = "{1420, 1276}";
-},
-{
-name = candra;
-position = "{1456, 1472}";
 }
 );
 paths = (
@@ -34862,16 +34867,16 @@ position = "{1340, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1336, 1472}";
+},
+{
 name = imatra;
 position = "{1364, 1320}";
 },
 {
 name = top;
 position = "{1340, 1286}";
-},
-{
-name = candra;
-position = "{1336, 1472}";
 }
 );
 paths = (
@@ -34977,16 +34982,16 @@ position = "{1530, 1266}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1556, 1472}";
+},
+{
 name = imatra;
 position = "{1576, 1329}";
 },
 {
 name = top;
 position = "{1530, 1266}";
-},
-{
-name = candra;
-position = "{1556, 1472}";
 }
 );
 paths = (
@@ -35100,16 +35105,16 @@ position = "{1530, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1566, 1472}";
+},
+{
 name = imatra;
 position = "{1562, 1321}";
 },
 {
 name = top;
 position = "{1530, 1286}";
-},
-{
-name = candra;
-position = "{1566, 1472}";
 }
 );
 paths = (
@@ -35215,16 +35220,16 @@ position = "{1760, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1796, 1472}";
+},
+{
 name = imatra;
 position = "{1801, 1330}";
 },
 {
 name = top;
 position = "{1760, 1276}";
-},
-{
-name = candra;
-position = "{1796, 1472}";
 }
 );
 paths = (
@@ -35338,16 +35343,16 @@ position = "{1830, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{1856, 1472}";
+},
+{
 name = imatra;
 position = "{1859, 1324}";
 },
 {
 name = top;
 position = "{1830, 1286}";
-},
-{
-name = candra;
-position = "{1856, 1472}";
 }
 );
 paths = (
@@ -35453,16 +35458,16 @@ position = "{2100, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{2136, 1472}";
+},
+{
 name = imatra;
 position = "{2138, 1331}";
 },
 {
 name = top;
 position = "{2100, 1276}";
-},
-{
-name = candra;
-position = "{2136, 1472}";
 }
 );
 paths = (
@@ -35576,16 +35581,16 @@ position = "{2030, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{2056, 1472}";
+},
+{
 name = imatra;
 position = "{2057, 1325}";
 },
 {
 name = top;
 position = "{2030, 1286}";
-},
-{
-name = candra;
-position = "{2056, 1472}";
 }
 );
 paths = (
@@ -35691,16 +35696,16 @@ position = "{2320, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{2356, 1472}";
+},
+{
 name = imatra;
 position = "{2363, 1333}";
 },
 {
 name = top;
 position = "{2320, 1276}";
-},
-{
-name = candra;
-position = "{2356, 1472}";
 }
 );
 paths = (
@@ -35814,16 +35819,16 @@ position = "{2520, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{2556, 1472}";
+},
+{
 name = imatra;
 position = "{2547, 1328}";
 },
 {
 name = top;
 position = "{2520, 1286}";
-},
-{
-name = candra;
-position = "{2556, 1472}";
 }
 );
 paths = (
@@ -35929,16 +35934,16 @@ position = "{2880, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{2916, 1472}";
+},
+{
 name = imatra;
 position = "{2927, 1334}";
 },
 {
 name = top;
 position = "{2880, 1276}";
-},
-{
-name = candra;
-position = "{2916, 1472}";
 }
 );
 paths = (
@@ -36052,16 +36057,16 @@ position = "{3020, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{3036, 1472}";
+},
+{
 name = imatra;
 position = "{3043, 1331}";
 },
 {
 name = top;
 position = "{3020, 1286}";
-},
-{
-name = candra;
-position = "{3036, 1472}";
 }
 );
 paths = (
@@ -36167,16 +36172,16 @@ position = "{3330, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{3356, 1472}";
+},
+{
 name = imatra;
 position = "{3375, 1334}";
 },
 {
 name = top;
 position = "{3330, 1276}";
-},
-{
-name = candra;
-position = "{3356, 1472}";
 }
 );
 paths = (
@@ -36290,16 +36295,16 @@ position = "{3510, 1286}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{3516, 1472}";
+},
+{
 name = imatra;
 position = "{3518, 1334}";
 },
 {
 name = top;
 position = "{3510, 1286}";
-},
-{
-name = candra;
-position = "{3516, 1472}";
 }
 );
 paths = (
@@ -36405,16 +36410,16 @@ position = "{3900, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{3926, 1472}";
+},
+{
 name = imatra;
 position = "{3937, 1335}";
 },
 {
 name = top;
 position = "{3900, 1276}";
-},
-{
-name = candra;
-position = "{3926, 1472}";
 }
 );
 paths = (
@@ -36528,16 +36533,16 @@ position = "{3990, 1296}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{4006, 1472}";
+},
+{
 name = imatra;
 position = "{4005, 1337}";
 },
 {
 name = top;
 position = "{3990, 1296}";
-},
-{
-name = candra;
-position = "{4006, 1472}";
 }
 );
 paths = (
@@ -36643,16 +36648,16 @@ position = "{4450, 1276}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{4506, 1472}";
+},
+{
 name = imatra;
 position = "{4501, 1335}";
 },
 {
 name = top;
 position = "{4450, 1276}";
-},
-{
-name = candra;
-position = "{4506, 1472}";
 }
 );
 paths = (
@@ -39006,16 +39011,16 @@ position = "{262, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{426, 1186}";
+},
+{
 name = iimatra;
 position = "{-718, 1187}";
 },
 {
 name = top;
 position = "{262, 1187}";
-},
-{
-name = candra;
-position = "{426, 1186}";
 }
 );
 paths = (
@@ -39111,16 +39116,16 @@ position = "{295, 1137}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{526, 1186}";
+},
+{
 name = iimatra;
 position = "{-798, 1187}";
 },
 {
 name = top;
 position = "{295, 1137}";
-},
-{
-name = candra;
-position = "{526, 1186}";
 }
 );
 paths = (
@@ -39449,6 +39454,10 @@ position = "{778, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{778, 0}";
+},
+{
 name = candra;
 position = "{778, 1187}";
 },
@@ -39459,10 +39468,6 @@ position = "{193, 0}";
 {
 name = top;
 position = "{778, 1187}";
-},
-{
-name = bottom;
-position = "{778, 0}";
 }
 );
 paths = (
@@ -39646,6 +39651,10 @@ position = "{849, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{849, 0}";
+},
+{
 name = candra;
 position = "{835, 1187}";
 },
@@ -39656,10 +39665,6 @@ position = "{114, -20}";
 {
 name = top;
 position = "{849, 1187}";
-},
-{
-name = bottom;
-position = "{849, 0}";
 }
 );
 paths = (
@@ -39853,6 +39858,10 @@ position = "{1264, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1264, 0}";
+},
+{
 name = candra;
 position = "{868, 1187}";
 },
@@ -39863,10 +39872,6 @@ position = "{167, 0}";
 {
 name = top;
 position = "{1264, 1187}";
-},
-{
-name = bottom;
-position = "{1264, 0}";
 }
 );
 paths = (
@@ -40064,6 +40069,10 @@ position = "{1460, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1460, 0}";
+},
+{
 name = candra;
 position = "{967, 1187}";
 },
@@ -40074,10 +40083,6 @@ position = "{179, -120}";
 {
 name = top;
 position = "{1460, 1187}";
-},
-{
-name = bottom;
-position = "{1460, 0}";
 }
 );
 paths = (
@@ -40285,6 +40290,10 @@ position = "{928, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{928, 0}";
+},
+{
 name = candra;
 position = "{642, 1187}";
 },
@@ -40295,10 +40304,6 @@ position = "{357, 0}";
 {
 name = top;
 position = "{928, 1187}";
-},
-{
-name = bottom;
-position = "{928, 0}";
 }
 );
 paths = (
@@ -40402,6 +40407,10 @@ position = "{1078, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1078, 0}";
+},
+{
 name = candra;
 position = "{760, 1187}";
 },
@@ -40412,10 +40421,6 @@ position = "{398, -20}";
 {
 name = top;
 position = "{1078, 1187}";
-},
-{
-name = bottom;
-position = "{1078, 0}";
 }
 );
 paths = (
@@ -40529,6 +40534,10 @@ position = "{978, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{978, 0}";
+},
+{
 name = candra;
 position = "{708, 1187}";
 },
@@ -40539,10 +40548,6 @@ position = "{190, 0}";
 {
 name = top;
 position = "{978, 1187}";
-},
-{
-name = bottom;
-position = "{978, 0}";
 }
 );
 paths = (
@@ -40686,6 +40691,10 @@ position = "{1104, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1104, 0}";
+},
+{
 name = candra;
 position = "{782, 1187}";
 },
@@ -40696,10 +40705,6 @@ position = "{254, -50}";
 {
 name = top;
 position = "{1104, 1187}";
-},
-{
-name = bottom;
-position = "{1104, 0}";
 }
 );
 paths = (
@@ -40853,6 +40858,10 @@ position = "{793, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{645, 50}";
+},
+{
 name = candra;
 position = "{764, 1187}";
 },
@@ -40863,10 +40872,6 @@ position = "{66, 50}";
 {
 name = top;
 position = "{793, 1187}";
-},
-{
-name = bottom;
-position = "{645, 50}";
 }
 );
 paths = (
@@ -41074,6 +41079,10 @@ position = "{914, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{839, -30}";
+},
+{
 name = candra;
 position = "{888, 1187}";
 },
@@ -41084,10 +41093,6 @@ position = "{159, -80}";
 {
 name = top;
 position = "{914, 1187}";
-},
-{
-name = bottom;
-position = "{839, -30}";
 }
 );
 paths = (
@@ -41305,6 +41310,10 @@ position = "{986, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{986, 0}";
+},
+{
 name = candra;
 position = "{716, 1187}";
 },
@@ -41315,10 +41324,6 @@ position = "{320, 0}";
 {
 name = top;
 position = "{986, 1187}";
-},
-{
-name = bottom;
-position = "{986, 0}";
 }
 );
 paths = (
@@ -41466,6 +41471,10 @@ position = "{1147, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1147, 0}";
+},
+{
 name = candra;
 position = "{833, 1187}";
 },
@@ -41476,10 +41485,6 @@ position = "{337, -50}";
 {
 name = top;
 position = "{1147, 1187}";
-},
-{
-name = bottom;
-position = "{1147, 0}";
 }
 );
 paths = (
@@ -41637,6 +41642,10 @@ position = "{954, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{717, 9}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -41647,10 +41656,6 @@ position = "{716, -255}";
 {
 name = top;
 position = "{954, 1187}";
-},
-{
-name = bottom;
-position = "{717, 9}";
 }
 );
 paths = (
@@ -41876,6 +41881,10 @@ position = "{1014, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{770, -10}";
+},
+{
 name = candra;
 position = "{759, 1187}";
 },
@@ -41886,10 +41895,6 @@ position = "{756, -345}";
 {
 name = top;
 position = "{1014, 1187}";
-},
-{
-name = bottom;
-position = "{770, -10}";
 }
 );
 paths = (
@@ -42125,6 +42130,10 @@ position = "{1137, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1129, 0}";
+},
+{
 name = candra;
 position = "{709, 1187}";
 },
@@ -42135,10 +42144,6 @@ position = "{188, 0}";
 {
 name = top;
 position = "{1137, 1187}";
-},
-{
-name = bottom;
-position = "{1129, 0}";
 }
 );
 paths = (
@@ -42244,6 +42249,10 @@ position = "{1297, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1297, 0}";
+},
+{
 name = candra;
 position = "{898, 1187}";
 },
@@ -42254,10 +42263,6 @@ position = "{218, -50}";
 {
 name = top;
 position = "{1297, 1187}";
-},
-{
-name = bottom;
-position = "{1297, 0}";
 }
 );
 paths = (
@@ -42373,6 +42378,10 @@ position = "{1198, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1198, 0}";
+},
+{
 name = candra;
 position = "{807, 1187}";
 },
@@ -42383,10 +42392,6 @@ position = "{157, -120}";
 {
 name = top;
 position = "{1198, 1187}";
-},
-{
-name = bottom;
-position = "{1198, 0}";
 }
 );
 paths = (
@@ -42662,6 +42667,10 @@ position = "{1380, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1380, 0}";
+},
+{
 name = candra;
 position = "{923, 1187}";
 },
@@ -42672,10 +42681,6 @@ position = "{130, -240}";
 {
 name = top;
 position = "{1380, 1187}";
-},
-{
-name = bottom;
-position = "{1380, 0}";
 }
 );
 paths = (
@@ -42961,6 +42966,10 @@ position = "{1297, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1282, 0}";
+},
+{
 name = candra;
 position = "{855, 1187}";
 },
@@ -42971,10 +42980,6 @@ position = "{297, 0}";
 {
 name = top;
 position = "{1297, 1187}";
-},
-{
-name = bottom;
-position = "{1282, 0}";
 }
 );
 paths = (
@@ -43118,6 +43123,10 @@ position = "{1371, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1371, 0}";
+},
+{
 name = candra;
 position = "{922, 1187}";
 },
@@ -43128,10 +43137,6 @@ position = "{191, -40}";
 {
 name = top;
 position = "{1371, 1187}";
-},
-{
-name = bottom;
-position = "{1371, 0}";
 }
 );
 paths = (
@@ -43285,6 +43290,10 @@ position = "{789, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{635, 50}";
+},
+{
 name = candra;
 position = "{665, 1187}";
 },
@@ -43295,10 +43304,6 @@ position = "{616, -255}";
 {
 name = top;
 position = "{789, 1187}";
-},
-{
-name = bottom;
-position = "{635, 50}";
 }
 );
 paths = (
@@ -43424,6 +43429,10 @@ position = "{804, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{674, 30}";
+},
+{
 name = candra;
 position = "{687, 1187}";
 },
@@ -43434,10 +43443,6 @@ position = "{656, -335}";
 {
 name = top;
 position = "{804, 1187}";
-},
-{
-name = bottom;
-position = "{674, 30}";
 }
 );
 paths = (
@@ -43573,6 +43578,10 @@ position = "{761, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{632, 40}";
+},
+{
 name = candra;
 position = "{649, 1187}";
 },
@@ -43583,10 +43592,6 @@ position = "{626, -255}";
 {
 name = top;
 position = "{761, 1187}";
-},
-{
-name = bottom;
-position = "{632, 40}";
 }
 );
 paths = (
@@ -43738,6 +43743,10 @@ position = "{784, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{671, 13}";
+},
+{
 name = candra;
 position = "{688, 1187}";
 },
@@ -43748,10 +43757,6 @@ position = "{646, -335}";
 {
 name = top;
 position = "{784, 1187}";
-},
-{
-name = bottom;
-position = "{671, 13}";
 }
 );
 paths = (
@@ -43913,6 +43918,10 @@ position = "{793, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{645, 0}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -43923,10 +43932,6 @@ position = "{616, -265}";
 {
 name = top;
 position = "{793, 1187}";
-},
-{
-name = bottom;
-position = "{645, 0}";
 }
 );
 paths = (
@@ -44100,6 +44105,10 @@ position = "{895, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{750, -19}";
+},
+{
 name = candra;
 position = "{852, 1187}";
 },
@@ -44110,10 +44119,6 @@ position = "{726, -355}";
 {
 name = top;
 position = "{895, 1187}";
-},
-{
-name = bottom;
-position = "{750, -19}";
 }
 );
 paths = (
@@ -44297,6 +44302,10 @@ position = "{790, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{628, 30}";
+},
+{
 name = candra;
 position = "{683, 1187}";
 },
@@ -44307,10 +44316,6 @@ position = "{586, -255}";
 {
 name = top;
 position = "{790, 1187}";
-},
-{
-name = bottom;
-position = "{628, 30}";
 }
 );
 paths = (
@@ -44472,6 +44477,10 @@ position = "{885, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{748, 7}";
+},
+{
 name = candra;
 position = "{797, 1187}";
 },
@@ -44482,10 +44491,6 @@ position = "{706, -285}";
 {
 name = top;
 position = "{885, 1187}";
-},
-{
-name = bottom;
-position = "{748, 7}";
 }
 );
 paths = (
@@ -44657,6 +44662,10 @@ position = "{1172, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1172, 0}";
+},
+{
 name = candra;
 position = "{816, 1187}";
 },
@@ -44667,10 +44676,6 @@ position = "{475, 0}";
 {
 name = top;
 position = "{1172, 1187}";
-},
-{
-name = bottom;
-position = "{1172, 0}";
 }
 );
 paths = (
@@ -44782,6 +44787,10 @@ position = "{1276, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1276, 0}";
+},
+{
 name = candra;
 position = "{871, 1187}";
 },
@@ -44792,10 +44801,6 @@ position = "{505, -60}";
 {
 name = top;
 position = "{1276, 1187}";
-},
-{
-name = bottom;
-position = "{1276, 0}";
 }
 );
 paths = (
@@ -44917,6 +44922,10 @@ position = "{919, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{919, 0}";
+},
+{
 name = candra;
 position = "{682, 1187}";
 },
@@ -44927,10 +44936,6 @@ position = "{116, 0}";
 {
 name = top;
 position = "{919, 1187}";
-},
-{
-name = bottom;
-position = "{919, 0}";
 }
 );
 paths = (
@@ -45032,6 +45037,10 @@ position = "{950, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{950, 0}";
+},
+{
 name = candra;
 position = "{711, 1187}";
 },
@@ -45042,10 +45051,6 @@ position = "{80, -70}";
 {
 name = top;
 position = "{950, 1187}";
-},
-{
-name = bottom;
-position = "{950, 0}";
 }
 );
 paths = (
@@ -45157,6 +45162,10 @@ position = "{1001, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1001, 0}";
+},
+{
 name = candra;
 position = "{711, 1187}";
 },
@@ -45167,10 +45176,6 @@ position = "{373, 0}";
 {
 name = top;
 position = "{1001, 1187}";
-},
-{
-name = bottom;
-position = "{1001, 0}";
 }
 );
 paths = (
@@ -45312,6 +45317,10 @@ position = "{1138, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1138, 0}";
+},
+{
 name = candra;
 position = "{806, 1187}";
 },
@@ -45322,10 +45331,6 @@ position = "{208, 0}";
 {
 name = top;
 position = "{1138, 1187}";
-},
-{
-name = bottom;
-position = "{1138, 0}";
 }
 );
 paths = (
@@ -45477,6 +45482,10 @@ position = "{776, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{803, -78}";
+},
+{
 name = candra;
 position = "{668, 1187}";
 },
@@ -45487,10 +45496,6 @@ position = "{456, -165}";
 {
 name = top;
 position = "{776, 1187}";
-},
-{
-name = bottom;
-position = "{803, -78}";
 }
 );
 paths = (
@@ -45654,6 +45659,10 @@ position = "{890, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{888, -97}";
+},
+{
 name = candra;
 position = "{731, 1187}";
 },
@@ -45664,10 +45673,6 @@ position = "{506, -225}";
 {
 name = top;
 position = "{890, 1187}";
-},
-{
-name = bottom;
-position = "{888, -97}";
 }
 );
 paths = (
@@ -45841,6 +45846,10 @@ position = "{970, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{970, 0}";
+},
+{
 name = candra;
 position = "{700, 1187}";
 },
@@ -45851,10 +45860,6 @@ position = "{241, 0}";
 {
 name = top;
 position = "{970, 1187}";
-},
-{
-name = bottom;
-position = "{970, 0}";
 }
 );
 paths = (
@@ -46034,6 +46039,10 @@ position = "{1094, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1094, 0}";
+},
+{
 name = candra;
 position = "{825, 1187}";
 },
@@ -46044,10 +46053,6 @@ position = "{263, 0}";
 {
 name = top;
 position = "{1094, 1187}";
-},
-{
-name = bottom;
-position = "{1094, 0}";
 }
 );
 paths = (
@@ -46237,6 +46242,10 @@ position = "{838, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{838, 0}";
+},
+{
 name = candra;
 position = "{656, 1187}";
 },
@@ -46247,10 +46256,6 @@ position = "{249, 0}";
 {
 name = top;
 position = "{838, 1187}";
-},
-{
-name = bottom;
-position = "{838, 0}";
 }
 );
 paths = (
@@ -46334,6 +46339,10 @@ position = "{939, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{939, 0}";
+},
+{
 name = candra;
 position = "{717, 1187}";
 },
@@ -46344,10 +46353,6 @@ position = "{260, -30}";
 {
 name = top;
 position = "{939, 1187}";
-},
-{
-name = bottom;
-position = "{939, 0}";
 }
 );
 paths = (
@@ -46500,6 +46505,10 @@ position = "{830, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{830, 0}";
+},
+{
 name = candra;
 position = "{582, 1187}";
 },
@@ -46510,10 +46519,6 @@ position = "{208, 140}";
 {
 name = top;
 position = "{830, 1187}";
-},
-{
-name = bottom;
-position = "{830, 0}";
 }
 );
 paths = (
@@ -46621,6 +46626,10 @@ position = "{905, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{905, 0}";
+},
+{
 name = candra;
 position = "{642, 1187}";
 },
@@ -46631,10 +46640,6 @@ position = "{209, 70}";
 {
 name = top;
 position = "{905, 1187}";
-},
-{
-name = bottom;
-position = "{905, 0}";
 }
 );
 paths = (
@@ -46752,6 +46757,10 @@ position = "{800, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{800, 0}";
+},
+{
 name = candra;
 position = "{771, 1187}";
 },
@@ -46762,10 +46771,6 @@ position = "{216, 120}";
 {
 name = top;
 position = "{800, 1187}";
-},
-{
-name = bottom;
-position = "{800, 0}";
 }
 );
 paths = (
@@ -46935,6 +46940,10 @@ position = "{896, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{896, 0}";
+},
+{
 name = candra;
 position = "{861, 1187}";
 },
@@ -46945,10 +46954,6 @@ position = "{209, 60}";
 {
 name = top;
 position = "{896, 1187}";
-},
-{
-name = bottom;
-position = "{896, 0}";
 }
 );
 paths = (
@@ -47128,6 +47133,10 @@ position = "{902, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{902, 0}";
+},
+{
 name = candra;
 position = "{667, 1187}";
 },
@@ -47138,10 +47147,6 @@ position = "{216, 0}";
 {
 name = top;
 position = "{902, 1187}";
-},
-{
-name = bottom;
-position = "{902, 0}";
 }
 );
 paths = (
@@ -47307,6 +47312,10 @@ position = "{977, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{977, 0}";
+},
+{
 name = candra;
 position = "{732, 1187}";
 },
@@ -47317,10 +47326,6 @@ position = "{177, 0}";
 {
 name = top;
 position = "{977, 1187}";
-},
-{
-name = bottom;
-position = "{977, 0}";
 }
 );
 paths = (
@@ -47496,6 +47501,10 @@ position = "{1054, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1054, 0}";
+},
+{
 name = candra;
 position = "{743, 1187}";
 },
@@ -47506,10 +47515,6 @@ position = "{413, 0}";
 {
 name = top;
 position = "{1054, 1187}";
-},
-{
-name = bottom;
-position = "{1054, 0}";
 }
 );
 paths = (
@@ -47643,6 +47648,10 @@ position = "{1232, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1232, 0}";
+},
+{
 name = candra;
 position = "{891, 1187}";
 },
@@ -47653,10 +47662,6 @@ position = "{483, -110}";
 {
 name = top;
 position = "{1232, 1187}";
-},
-{
-name = bottom;
-position = "{1232, 0}";
 }
 );
 paths = (
@@ -47800,6 +47805,10 @@ position = "{922, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{922, 0}";
+},
+{
 name = candra;
 position = "{637, 1187}";
 },
@@ -47810,10 +47819,6 @@ position = "{277, 0}";
 {
 name = top;
 position = "{922, 1187}";
-},
-{
-name = bottom;
-position = "{922, 0}";
 }
 );
 paths = (
@@ -47913,6 +47918,10 @@ position = "{1056, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1056, 0}";
+},
+{
 name = candra;
 position = "{771, 1187}";
 },
@@ -47923,10 +47932,6 @@ position = "{294, -110}";
 {
 name = top;
 position = "{1056, 1187}";
-},
-{
-name = bottom;
-position = "{1056, 0}";
 }
 );
 paths = (
@@ -48036,6 +48041,10 @@ position = "{913, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{913, 0}";
+},
+{
 name = candra;
 position = "{671, 1187}";
 },
@@ -48046,10 +48055,6 @@ position = "{216, 110}";
 {
 name = top;
 position = "{913, 1187}";
-},
-{
-name = bottom;
-position = "{913, 0}";
 }
 );
 paths = (
@@ -48171,6 +48176,10 @@ position = "{1015, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1015, 0}";
+},
+{
 name = candra;
 position = "{743, 1187}";
 },
@@ -48181,10 +48190,6 @@ position = "{191, -40}";
 {
 name = top;
 position = "{1015, 1187}";
-},
-{
-name = bottom;
-position = "{1015, 0}";
 }
 );
 paths = (
@@ -48316,6 +48321,10 @@ position = "{476, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{477, 40}";
+},
+{
 name = candra;
 position = "{471, 1187}";
 },
@@ -48326,10 +48335,6 @@ position = "{153, 0}";
 {
 name = top;
 position = "{476, 1187}";
-},
-{
-name = bottom;
-position = "{477, 40}";
 }
 );
 paths = (
@@ -48435,6 +48440,10 @@ position = "{531, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{535, 0}";
+},
+{
 name = candra;
 position = "{471, 1187}";
 },
@@ -48445,10 +48454,6 @@ position = "{123, -40}";
 {
 name = top;
 position = "{531, 1187}";
-},
-{
-name = bottom;
-position = "{535, 0}";
 }
 );
 paths = (
@@ -48623,6 +48628,10 @@ position = "{1147, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1147, 0}";
+},
+{
 name = candra;
 position = "{786, 1187}";
 },
@@ -48633,10 +48642,6 @@ position = "{126, 0}";
 {
 name = top;
 position = "{1147, 1187}";
-},
-{
-name = bottom;
-position = "{1147, 0}";
 }
 );
 paths = (
@@ -48774,6 +48779,10 @@ position = "{1216, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1216, 0}";
+},
+{
 name = candra;
 position = "{845, 1187}";
 },
@@ -48784,10 +48793,6 @@ position = "{79, -110}";
 {
 name = top;
 position = "{1216, 1187}";
-},
-{
-name = bottom;
-position = "{1216, 0}";
 }
 );
 paths = (
@@ -48935,6 +48940,10 @@ position = "{1140, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1145, 60}";
+},
+{
 name = candra;
 position = "{874, 1187}";
 },
@@ -48945,10 +48954,6 @@ position = "{814, -102}";
 {
 name = top;
 position = "{1140, 1187}";
-},
-{
-name = bottom;
-position = "{1145, 60}";
 }
 );
 paths = (
@@ -49160,6 +49165,10 @@ position = "{1120, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1190, 20}";
+},
+{
 name = candra;
 position = "{886, 1187}";
 },
@@ -49170,10 +49179,6 @@ position = "{834, -182}";
 {
 name = top;
 position = "{1120, 1187}";
-},
-{
-name = bottom;
-position = "{1190, 20}";
 }
 );
 paths = (
@@ -49457,6 +49462,10 @@ position = "{889, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{889, 0}";
+},
+{
 name = candra;
 position = "{655, 1187}";
 },
@@ -49467,10 +49476,6 @@ position = "{236, 0}";
 {
 name = top;
 position = "{889, 1187}";
-},
-{
-name = bottom;
-position = "{889, 0}";
 }
 );
 paths = (
@@ -49598,6 +49603,10 @@ position = "{875, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{875, 0}";
+},
+{
 name = candra;
 position = "{693, 1187}";
 },
@@ -49608,10 +49617,6 @@ position = "{171, -40}";
 {
 name = top;
 position = "{875, 1187}";
-},
-{
-name = bottom;
-position = "{875, 0}";
 }
 );
 paths = (
@@ -49749,6 +49754,10 @@ position = "{1119, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1119, 0}";
+},
+{
 name = candra;
 position = "{893, 1187}";
 },
@@ -49759,10 +49768,6 @@ position = "{323, -70}";
 {
 name = top;
 position = "{1119, 1187}";
-},
-{
-name = bottom;
-position = "{1119, 0}";
 }
 );
 paths = (
@@ -49920,6 +49925,10 @@ position = "{1233, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1233, 0}";
+},
+{
 name = candra;
 position = "{919, 1187}";
 },
@@ -49930,10 +49939,6 @@ position = "{283, -150}";
 {
 name = top;
 position = "{1233, 1187}";
-},
-{
-name = bottom;
-position = "{1233, 0}";
 }
 );
 paths = (
@@ -50101,6 +50106,10 @@ position = "{838, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{838, 0}";
+},
+{
 name = candra;
 position = "{579, 1187}";
 },
@@ -50111,10 +50120,6 @@ position = "{216, 140}";
 {
 name = top;
 position = "{838, 1187}";
-},
-{
-name = bottom;
-position = "{838, 0}";
 }
 );
 paths = (
@@ -50264,6 +50269,10 @@ position = "{927, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{927, 0}";
+},
+{
 name = candra;
 position = "{680, 1187}";
 },
@@ -50274,10 +50283,6 @@ position = "{211, 70}";
 {
 name = top;
 position = "{927, 1187}";
-},
-{
-name = bottom;
-position = "{927, 0}";
 }
 );
 paths = (
@@ -50437,6 +50442,10 @@ position = "{1035, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1035, 0}";
+},
+{
 name = candra;
 position = "{732, 1187}";
 },
@@ -50447,10 +50456,6 @@ position = "{105, 0}";
 {
 name = top;
 position = "{1035, 1187}";
-},
-{
-name = bottom;
-position = "{1035, 0}";
 }
 );
 paths = (
@@ -50592,6 +50597,10 @@ position = "{1160, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1160, 0}";
+},
+{
 name = candra;
 position = "{839, 1187}";
 },
@@ -50602,10 +50611,6 @@ position = "{142, -80}";
 {
 name = top;
 position = "{1160, 1187}";
-},
-{
-name = bottom;
-position = "{1160, 0}";
 }
 );
 paths = (
@@ -50757,6 +50762,10 @@ position = "{755, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{645, -160}";
+},
+{
 name = candra;
 position = "{617, 1187}";
 },
@@ -50767,10 +50776,6 @@ position = "{156, -200}";
 {
 name = top;
 position = "{755, 1187}";
-},
-{
-name = bottom;
-position = "{645, -160}";
 }
 );
 paths = (
@@ -50950,6 +50955,10 @@ position = "{758, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{640, -160}";
+},
+{
 name = candra;
 position = "{653, 1187}";
 },
@@ -50960,10 +50969,6 @@ position = "{111, -280}";
 {
 name = top;
 position = "{758, 1187}";
-},
-{
-name = bottom;
-position = "{640, -160}";
 }
 );
 paths = (
@@ -52691,6 +52696,10 @@ position = "{983, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{953, 10}";
+},
+{
 name = candra;
 position = "{739, 1187}";
 },
@@ -52701,10 +52710,6 @@ position = "{157, 0}";
 {
 name = top;
 position = "{983, 1187}";
-},
-{
-name = bottom;
-position = "{953, 10}";
 }
 );
 paths = (
@@ -52906,6 +52911,10 @@ position = "{978, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1038, -30}";
+},
+{
 name = candra;
 position = "{782, 1187}";
 },
@@ -52916,10 +52925,6 @@ position = "{202, -120}";
 {
 name = top;
 position = "{978, 1187}";
-},
-{
-name = bottom;
-position = "{1038, -30}";
 }
 );
 paths = (
@@ -53128,6 +53133,10 @@ position = "{1033, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1033, 0}";
+},
+{
 name = candra;
 position = "{729, 1187}";
 },
@@ -53138,10 +53147,6 @@ position = "{287, -70}";
 {
 name = top;
 position = "{1033, 1187}";
-},
-{
-name = bottom;
-position = "{1033, 0}";
 }
 );
 paths = (
@@ -53327,6 +53332,10 @@ position = "{1231, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1231, 0}";
+},
+{
 name = candra;
 position = "{858, 1187}";
 },
@@ -53337,10 +53346,6 @@ position = "{311, -130}";
 {
 name = top;
 position = "{1231, 1187}";
-},
-{
-name = bottom;
-position = "{1231, 0}";
 }
 );
 paths = (
@@ -53533,6 +53538,10 @@ position = "{1054, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1054, 0}";
+},
+{
 name = candra;
 position = "{1079, 1187}";
 },
@@ -53543,10 +53552,6 @@ position = "{413, 0}";
 {
 name = top;
 position = "{1054, 1187}";
-},
-{
-name = bottom;
-position = "{1054, 0}";
 }
 );
 paths = (
@@ -53748,6 +53753,10 @@ position = "{1232, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1232, 0}";
+},
+{
 name = candra;
 position = "{1179, 1187}";
 },
@@ -53758,10 +53767,6 @@ position = "{483, -110}";
 {
 name = top;
 position = "{1232, 1187}";
-},
-{
-name = bottom;
-position = "{1232, 0}";
 }
 );
 paths = (
@@ -54562,12 +54567,12 @@ position = "{768, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{0, 173}";
-},
-{
 name = bottom;
 position = "{768, 0}";
+},
+{
+name = nukta;
+position = "{0, 173}";
 },
 {
 name = top;
@@ -54634,12 +54639,12 @@ position = "{848, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{-60, 173}";
-},
-{
 name = bottom;
 position = "{848, -20}";
+},
+{
+name = nukta;
+position = "{-60, 173}";
 },
 {
 name = top;
@@ -54710,16 +54715,16 @@ position = "{930, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{930, 1187}";
-},
-{
 name = bottom;
 position = "{930, 0}";
 },
 {
 name = candra;
 position = "{899, 1187}";
+},
+{
+name = top;
+position = "{930, 1187}";
 }
 );
 paths = (
@@ -54891,16 +54896,16 @@ position = "{1090, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1090, 1187}";
-},
-{
 name = bottom;
 position = "{1090, 0}";
 },
 {
 name = candra;
 position = "{1079, 1187}";
+},
+{
+name = top;
+position = "{1090, 1187}";
 }
 );
 paths = (
@@ -55085,6 +55090,10 @@ position = "{2102, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{2102, 0}";
+},
+{
 name = candra;
 position = "{1379, 1187}";
 },
@@ -55095,10 +55104,6 @@ position = "{88, 0}";
 {
 name = top;
 position = "{2102, 1187}";
-},
-{
-name = bottom;
-position = "{2102, 0}";
 }
 );
 paths = (
@@ -55316,6 +55321,10 @@ position = "{2257, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{2257, 0}";
+},
+{
 name = candra;
 position = "{1479, 1187}";
 },
@@ -55326,10 +55335,6 @@ position = "{88, 0}";
 {
 name = top;
 position = "{2257, 1187}";
-},
-{
-name = bottom;
-position = "{2257, 0}";
 }
 );
 paths = (
@@ -55666,6 +55671,10 @@ position = "{1143, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1143, 0}";
+},
+{
 name = candra;
 position = "{879, 1187}";
 },
@@ -55676,10 +55685,6 @@ position = "{183, -210}";
 {
 name = top;
 position = "{1143, 1187}";
-},
-{
-name = bottom;
-position = "{1143, 0}";
 }
 );
 paths = (
@@ -55909,6 +55914,10 @@ position = "{1316, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1316, 0}";
+},
+{
 name = candra;
 position = "{979, 1187}";
 },
@@ -55919,10 +55928,6 @@ position = "{183, -210}";
 {
 name = top;
 position = "{1316, 1187}";
-},
-{
-name = bottom;
-position = "{1316, 0}";
 }
 );
 paths = (
@@ -56161,6 +56166,10 @@ position = "{1233, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1236, 0}";
+},
+{
 name = candra;
 position = "{829, 1187}";
 },
@@ -56171,10 +56180,6 @@ position = "{133, -160}";
 {
 name = top;
 position = "{1233, 1187}";
-},
-{
-name = bottom;
-position = "{1236, 0}";
 }
 );
 paths = (
@@ -56414,6 +56419,10 @@ position = "{1476, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1496, 0}";
+},
+{
 name = candra;
 position = "{969, 1187}";
 },
@@ -56424,10 +56433,6 @@ position = "{133, -180}";
 {
 name = top;
 position = "{1476, 1187}";
-},
-{
-name = bottom;
-position = "{1496, 0}";
 }
 );
 paths = (
@@ -56680,6 +56685,14 @@ position = "{1143, 1187}";
 background = {
 anchors = (
 {
+name = _bottom;
+position = "{1143, 0}";
+},
+{
+name = bottom;
+position = "{1143, 0}";
+},
+{
 name = candra;
 position = "{879, 1187}";
 },
@@ -56690,14 +56703,6 @@ position = "{183, -210}";
 {
 name = top;
 position = "{1143, 1187}";
-},
-{
-name = _bottom;
-position = "{1143, 0}";
-},
-{
-name = bottom;
-position = "{1143, 0}";
 }
 );
 paths = (
@@ -56999,6 +57004,14 @@ position = "{1316, 1187}";
 background = {
 anchors = (
 {
+name = _bottom;
+position = "{1316, 0}";
+},
+{
+name = bottom;
+position = "{1316, 0}";
+},
+{
 name = candra;
 position = "{979, 1187}";
 },
@@ -57009,14 +57022,6 @@ position = "{183, -210}";
 {
 name = top;
 position = "{1316, 1187}";
-},
-{
-name = _bottom;
-position = "{1316, 0}";
-},
-{
-name = bottom;
-position = "{1316, 0}";
 }
 );
 paths = (
@@ -57298,7 +57303,7 @@ rightMetricsKey = "ssa-deva";
 },
 {
 glyphname = "k_ssa_uuMatra-deva";
-lastChange = "2015-03-23 17:17:51 +0000";
+lastChange = "2015-04-11 06:29:22 +0000";
 layers = (
 {
 background = {
@@ -57325,7 +57330,7 @@ transform = "{1, 0, 0, 1, 927, 0}";
 );
 layerId = UUID0;
 name = Regular;
-width = 1393;
+width = 1261;
 },
 {
 background = {
@@ -57880,6 +57885,10 @@ position = "{1813, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1813, 0}";
+},
+{
 name = candra;
 position = "{1129, 1187}";
 },
@@ -57890,10 +57899,6 @@ position = "{173, -160}";
 {
 name = top;
 position = "{1813, 1187}";
-},
-{
-name = bottom;
-position = "{1813, 0}";
 }
 );
 paths = (
@@ -58195,6 +58200,10 @@ position = "{2015, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1995, 0}";
+},
+{
 name = candra;
 position = "{1429, 1187}";
 },
@@ -58205,10 +58214,6 @@ position = "{183, -210}";
 {
 name = top;
 position = "{2015, 1187}";
-},
-{
-name = bottom;
-position = "{1995, 0}";
 }
 );
 paths = (
@@ -58519,6 +58524,10 @@ position = "{1313, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1313, 0}";
+},
+{
 name = candra;
 position = "{829, 1187}";
 },
@@ -58529,10 +58538,6 @@ position = "{167, 0}";
 {
 name = top;
 position = "{1313, 1187}";
-},
-{
-name = bottom;
-position = "{1313, 0}";
 }
 );
 paths = (
@@ -58760,6 +58765,10 @@ position = "{1489, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1489, 0}";
+},
+{
 name = candra;
 position = "{999, 1187}";
 },
@@ -58770,10 +58779,6 @@ position = "{179, -120}";
 {
 name = top;
 position = "{1489, 1187}";
-},
-{
-name = bottom;
-position = "{1489, 0}";
 }
 );
 paths = (
@@ -59010,6 +59015,10 @@ position = "{1321, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1321, 0}";
+},
+{
 name = candra;
 position = "{999, 1187}";
 },
@@ -59020,10 +59029,6 @@ position = "{167, 0}";
 {
 name = top;
 position = "{1321, 1187}";
-},
-{
-name = bottom;
-position = "{1321, 0}";
 }
 );
 paths = (
@@ -59269,6 +59274,10 @@ position = "{1496, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1496, -30}";
+},
+{
 name = candra;
 position = "{999, 1187}";
 },
@@ -59279,10 +59288,6 @@ position = "{179, -120}";
 {
 name = top;
 position = "{1496, 1187}";
-},
-{
-name = bottom;
-position = "{1496, -30}";
 }
 );
 paths = (
@@ -60126,6 +60131,10 @@ position = "{927, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{927, 0}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -60136,10 +60145,6 @@ position = "{117, 230}";
 {
 name = top;
 position = "{927, 1187}";
-},
-{
-name = bottom;
-position = "{927, 0}";
 }
 );
 paths = (
@@ -60283,6 +60288,10 @@ position = "{1075, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1075, 0}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -60293,10 +60302,6 @@ position = "{127, 170}";
 {
 name = top;
 position = "{1075, 1187}";
-},
-{
-name = bottom;
-position = "{1075, 0}";
 }
 );
 paths = (
@@ -60700,12 +60705,12 @@ position = "{94, 200}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{94, 200}";
-},
-{
 name = bottom;
 position = "{337, 0}";
+},
+{
+name = nukta;
+position = "{94, 200}";
 }
 );
 paths = (
@@ -60811,12 +60816,12 @@ position = "{94, 150}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{94, 150}";
-},
-{
 name = bottom;
 position = "{427, 0}";
+},
+{
+name = nukta;
+position = "{94, 150}";
 }
 );
 paths = (
@@ -61006,6 +61011,10 @@ position = "{980, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{980, 0}";
+},
+{
 name = candra;
 position = "{679, 1187}";
 },
@@ -61016,10 +61025,6 @@ position = "{140, 0}";
 {
 name = top;
 position = "{980, 1187}";
-},
-{
-name = bottom;
-position = "{980, 0}";
 }
 );
 paths = (
@@ -61265,6 +61270,10 @@ position = "{1090, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1090, 0}";
+},
+{
 name = candra;
 position = "{779, 1187}";
 },
@@ -61275,10 +61284,6 @@ position = "{184, -50}";
 {
 name = top;
 position = "{1090, 1187}";
-},
-{
-name = bottom;
-position = "{1090, 0}";
 }
 );
 paths = (
@@ -61644,6 +61649,10 @@ position = "{823, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{685, -480}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -61654,10 +61663,6 @@ position = "{34, -438}";
 {
 name = top;
 position = "{823, 1187}";
-},
-{
-name = bottom;
-position = "{685, -480}";
 }
 );
 paths = (
@@ -62005,6 +62010,10 @@ position = "{928, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{767, -610}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -62015,10 +62024,6 @@ position = "{-45, -540}";
 {
 name = top;
 position = "{928, 1187}";
-},
-{
-name = bottom;
-position = "{767, -610}";
 }
 );
 paths = (
@@ -62375,6 +62380,10 @@ position = "{819, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{691, -470}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -62385,10 +62394,6 @@ position = "{4, -408}";
 {
 name = top;
 position = "{819, 1187}";
-},
-{
-name = bottom;
-position = "{691, -470}";
 }
 );
 components = (
@@ -62450,6 +62455,10 @@ position = "{929, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{851, -590}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -62460,10 +62469,6 @@ position = "{-96, -488}";
 {
 name = top;
 position = "{929, 1187}";
-},
-{
-name = bottom;
-position = "{851, -590}";
 }
 );
 components = (
@@ -62534,6 +62539,10 @@ position = "{853, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{735, -480}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -62544,10 +62553,6 @@ position = "{24, -438}";
 {
 name = top;
 position = "{853, 1187}";
-},
-{
-name = bottom;
-position = "{735, -480}";
 }
 );
 paths = (
@@ -62887,6 +62892,10 @@ position = "{961, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{840, -600}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -62897,10 +62906,6 @@ position = "{-29, -534}";
 {
 name = top;
 position = "{961, 1187}";
-},
-{
-name = bottom;
-position = "{840, -600}";
 }
 );
 paths = (
@@ -63249,6 +63254,10 @@ position = "{823, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{895, -460}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -63259,10 +63268,6 @@ position = "{-26, -468}";
 {
 name = top;
 position = "{823, 1187}";
-},
-{
-name = bottom;
-position = "{895, -460}";
 }
 );
 paths = (
@@ -63654,6 +63659,10 @@ position = "{949, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1091, -630}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -63664,10 +63673,6 @@ position = "{-36, -668}";
 {
 name = top;
 position = "{949, 1187}";
-},
-{
-name = bottom;
-position = "{1091, -630}";
 }
 );
 paths = (
@@ -64068,6 +64073,10 @@ position = "{851, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{953, -470}";
+},
+{
 name = candra;
 position = "{859, 1187}";
 },
@@ -64078,10 +64087,6 @@ position = "{4, -418}";
 {
 name = top;
 position = "{851, 1187}";
-},
-{
-name = bottom;
-position = "{953, -470}";
 }
 );
 paths = (
@@ -64443,6 +64448,10 @@ position = "{988, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1120, -610}";
+},
+{
 name = candra;
 position = "{999, 1187}";
 },
@@ -64453,10 +64462,6 @@ position = "{-36, -508}";
 {
 name = top;
 position = "{988, 1187}";
-},
-{
-name = bottom;
-position = "{1120, -610}";
 }
 );
 paths = (
@@ -64827,6 +64832,10 @@ position = "{843, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{885, -440}";
+},
+{
 name = candra;
 position = "{839, 1187}";
 },
@@ -64837,10 +64846,6 @@ position = "{184, -488}";
 {
 name = top;
 position = "{843, 1187}";
-},
-{
-name = bottom;
-position = "{885, -440}";
 }
 );
 paths = (
@@ -65112,6 +65117,10 @@ position = "{898, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{950, -470}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -65122,10 +65131,6 @@ position = "{124, -488}";
 {
 name = top;
 position = "{898, 1187}";
-},
-{
-name = bottom;
-position = "{950, -470}";
 }
 );
 paths = (
@@ -65406,6 +65411,10 @@ position = "{843, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{885, -440}";
+},
+{
 name = candra;
 position = "{869, 1187}";
 },
@@ -65416,10 +65425,6 @@ position = "{184, -488}";
 {
 name = top;
 position = "{843, 1187}";
-},
-{
-name = bottom;
-position = "{885, -440}";
 }
 );
 paths = (
@@ -65709,6 +65714,10 @@ position = "{898, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{950, -470}";
+},
+{
 name = candra;
 position = "{909, 1187}";
 },
@@ -65719,10 +65728,6 @@ position = "{124, -448}";
 {
 name = top;
 position = "{898, 1187}";
-},
-{
-name = bottom;
-position = "{950, -470}";
 }
 );
 paths = (
@@ -66021,6 +66026,10 @@ position = "{823, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{901, -470}";
+},
+{
 name = candra;
 position = "{849, 1187}";
 },
@@ -66031,10 +66040,6 @@ position = "{134, -478}";
 {
 name = top;
 position = "{823, 1187}";
-},
-{
-name = bottom;
-position = "{901, -470}";
 }
 );
 paths = (
@@ -66336,6 +66341,10 @@ position = "{908, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{970, -580}";
+},
+{
 name = candra;
 position = "{939, 1187}";
 },
@@ -66346,10 +66355,6 @@ position = "{104, -538}";
 {
 name = top;
 position = "{908, 1187}";
-},
-{
-name = bottom;
-position = "{970, -580}";
 }
 );
 paths = (
@@ -66660,6 +66665,10 @@ position = "{819, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{911, -490}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -66670,10 +66679,6 @@ position = "{124, -448}";
 {
 name = top;
 position = "{819, 1187}";
-},
-{
-name = bottom;
-position = "{911, -490}";
 }
 );
 components = (
@@ -66735,6 +66740,10 @@ position = "{909, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{951, -610}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -66745,10 +66754,6 @@ position = "{74, -488}";
 {
 name = top;
 position = "{909, 1187}";
-},
-{
-name = bottom;
-position = "{951, -610}";
 }
 );
 components = (
@@ -66819,6 +66824,10 @@ position = "{823, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{887, -460}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -66829,10 +66838,6 @@ position = "{134, -448}";
 {
 name = top;
 position = "{823, 1187}";
-},
-{
-name = bottom;
-position = "{887, -460}";
 }
 );
 paths = (
@@ -67080,6 +67085,10 @@ position = "{928, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{997, -490}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -67090,10 +67099,6 @@ position = "{114, -508}";
 {
 name = top;
 position = "{928, 1187}";
-},
-{
-name = bottom;
-position = "{997, -490}";
 }
 );
 paths = (
@@ -67718,6 +67723,10 @@ position = "{888, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{826, -290}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -67728,10 +67737,6 @@ position = "{144, -338}";
 {
 name = top;
 position = "{888, 1187}";
-},
-{
-name = bottom;
-position = "{826, -290}";
 }
 );
 paths = (
@@ -68007,6 +68012,10 @@ position = "{1018, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{934, -430}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -68017,10 +68026,6 @@ position = "{134, -538}";
 {
 name = top;
 position = "{1018, 1187}";
-},
-{
-name = bottom;
-position = "{934, -430}";
 }
 );
 paths = (
@@ -68305,6 +68310,10 @@ position = "{885, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{857, -440}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -68315,10 +68324,6 @@ position = "{134, -498}";
 {
 name = top;
 position = "{885, 1187}";
-},
-{
-name = bottom;
-position = "{857, -440}";
 }
 );
 paths = (
@@ -68638,6 +68643,10 @@ position = "{1018, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{984, -550}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -68648,10 +68657,6 @@ position = "{134, -628}";
 {
 name = top;
 position = "{1018, 1187}";
-},
-{
-name = bottom;
-position = "{984, -550}";
 }
 );
 paths = (
@@ -69045,6 +69050,10 @@ position = "{1047, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1047, 0}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -69055,10 +69064,6 @@ position = "{124, -188}";
 {
 name = top;
 position = "{1047, 1187}";
-},
-{
-name = bottom;
-position = "{1047, 0}";
 }
 );
 paths = (
@@ -69216,6 +69221,10 @@ position = "{1174, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1174, 0}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -69226,10 +69235,6 @@ position = "{124, -288}";
 {
 name = top;
 position = "{1174, 1187}";
-},
-{
-name = bottom;
-position = "{1174, 0}";
 }
 );
 paths = (
@@ -69392,16 +69397,16 @@ position = "{1157, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1157, 1187}";
-},
-{
 name = bottom;
 position = "{1157, 0}";
 },
 {
 name = candra;
 position = "{699, 1187}";
+},
+{
+name = top;
+position = "{1157, 1187}";
 }
 );
 paths = (
@@ -69573,16 +69578,16 @@ position = "{1306, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1306, 1187}";
-},
-{
 name = bottom;
 position = "{1306, 0}";
 },
 {
 name = candra;
 position = "{869, 1187}";
+},
+{
+name = top;
+position = "{1306, 1187}";
 }
 );
 paths = (
@@ -70290,6 +70295,10 @@ position = "{1244, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1244, 0}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -70300,10 +70309,6 @@ position = "{153, -120}";
 {
 name = top;
 position = "{1244, 1187}";
-},
-{
-name = bottom;
-position = "{1244, 0}";
 }
 );
 paths = (
@@ -70609,6 +70614,10 @@ position = "{1480, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1480, 0}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -70619,10 +70628,6 @@ position = "{130, -240}";
 {
 name = top;
 position = "{1480, 1187}";
-},
-{
-name = bottom;
-position = "{1480, 0}";
 }
 );
 paths = (
@@ -72162,6 +72167,10 @@ position = "{1292, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1292, 0}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -72172,10 +72181,6 @@ position = "{257, -20}";
 {
 name = top;
 position = "{1292, 1187}";
-},
-{
-name = bottom;
-position = "{1292, 0}";
 }
 );
 paths = (
@@ -72353,6 +72358,10 @@ position = "{1410, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1410, 0}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -72363,10 +72372,6 @@ position = "{257, -70}";
 {
 name = top;
 position = "{1410, 1187}";
-},
-{
-name = bottom;
-position = "{1410, 0}";
 }
 );
 paths = (
@@ -72553,6 +72558,10 @@ position = "{1101, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1101, 0}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -72563,10 +72572,6 @@ position = "{203, -160}";
 {
 name = top;
 position = "{1101, 1187}";
-},
-{
-name = bottom;
-position = "{1101, 0}";
 }
 );
 paths = (
@@ -72782,6 +72787,10 @@ position = "{1163, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1175, -50}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -72792,10 +72801,6 @@ position = "{113, -300}";
 {
 name = top;
 position = "{1163, 1187}";
-},
-{
-name = bottom;
-position = "{1175, -50}";
 }
 );
 paths = (
@@ -73020,6 +73025,10 @@ position = "{1099, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1099, 0}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -73030,10 +73039,6 @@ position = "{43, -290}";
 {
 name = top;
 position = "{1099, 1187}";
-},
-{
-name = bottom;
-position = "{1099, 0}";
 }
 );
 paths = (
@@ -73231,6 +73236,10 @@ position = "{1163, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1163, 0}";
+},
+{
 name = candra;
 position = "{699, 1187}";
 },
@@ -73241,10 +73250,6 @@ position = "{-17, -400}";
 {
 name = top;
 position = "{1163, 1187}";
-},
-{
-name = bottom;
-position = "{1163, 0}";
 }
 );
 paths = (
@@ -73644,6 +73649,10 @@ position = "{797, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{639, -520}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -73654,10 +73663,6 @@ position = "{119, -548}";
 {
 name = top;
 position = "{797, 1187}";
-},
-{
-name = bottom;
-position = "{639, -520}";
 }
 );
 paths = (
@@ -73871,6 +73876,10 @@ position = "{837, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{731, -620}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -73881,10 +73890,6 @@ position = "{69, -658}";
 {
 name = top;
 position = "{837, 1187}";
-},
-{
-name = bottom;
-position = "{731, -620}";
 }
 );
 paths = (
@@ -74103,16 +74108,16 @@ position = "{1964, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1964, 1187}";
-},
-{
 name = bottom;
 position = "{1964, 0}";
 },
 {
 name = candra;
 position = "{1169, 1187}";
+},
+{
+name = top;
+position = "{1964, 1187}";
 }
 );
 components = (
@@ -74244,16 +74249,16 @@ position = "{2161, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2161, 1187}";
-},
-{
 name = bottom;
 position = "{2161, 0}";
 },
 {
 name = candra;
 position = "{1269, 1187}";
+},
+{
+name = top;
+position = "{2161, 1187}";
 }
 );
 components = (
@@ -74398,6 +74403,10 @@ position = "{797, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{648, -517}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -74408,10 +74417,6 @@ position = "{69, -558}";
 {
 name = top;
 position = "{797, 1187}";
-},
-{
-name = bottom;
-position = "{648, -517}";
 }
 );
 paths = (
@@ -74651,6 +74656,10 @@ position = "{817, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{730, -600}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -74661,10 +74670,6 @@ position = "{69, -658}";
 {
 name = top;
 position = "{817, 1187}";
-},
-{
-name = bottom;
-position = "{730, -600}";
 }
 );
 paths = (
@@ -74913,6 +74918,10 @@ position = "{797, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{688, -533}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -74923,10 +74932,6 @@ position = "{169, -563}";
 {
 name = top;
 position = "{797, 1187}";
-},
-{
-name = bottom;
-position = "{688, -533}";
 }
 );
 paths = (
@@ -75190,6 +75195,10 @@ position = "{817, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{740, -670}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -75200,10 +75209,6 @@ position = "{69, -708}";
 {
 name = top;
 position = "{817, 1187}";
-},
-{
-name = bottom;
-position = "{740, -670}";
 }
 );
 paths = (
@@ -75476,6 +75481,10 @@ position = "{817, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{796, -330}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -75486,10 +75495,6 @@ position = "{169, -358}";
 {
 name = top;
 position = "{817, 1187}";
-},
-{
-name = bottom;
-position = "{796, -330}";
 }
 );
 paths = (
@@ -75667,6 +75672,10 @@ position = "{817, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{853, -460}";
+},
+{
 name = candra;
 position = "{769, 1187}";
 },
@@ -75677,10 +75686,6 @@ position = "{149, -578}";
 {
 name = top;
 position = "{817, 1187}";
-},
-{
-name = bottom;
-position = "{853, -460}";
 }
 );
 paths = (
@@ -75867,6 +75872,10 @@ position = "{1977, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1967, 0}";
+},
+{
 name = candra;
 position = "{1129, 1187}";
 },
@@ -75877,10 +75886,6 @@ position = "{140, -57}";
 {
 name = top;
 position = "{1977, 1187}";
-},
-{
-name = bottom;
-position = "{1967, 0}";
 }
 );
 components = (
@@ -76016,6 +76021,10 @@ position = "{2137, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{2147, 0}";
+},
+{
 name = candra;
 position = "{1289, 1187}";
 },
@@ -76026,10 +76035,6 @@ position = "{140, -87}";
 {
 name = top;
 position = "{2137, 1187}";
-},
-{
-name = bottom;
-position = "{2147, 0}";
 }
 );
 components = (
@@ -76174,6 +76179,10 @@ position = "{763, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{816, -430}";
+},
+{
 name = candra;
 position = "{799, 1187}";
 },
@@ -76184,10 +76193,6 @@ position = "{69, -458}";
 {
 name = top;
 position = "{763, 1187}";
-},
-{
-name = bottom;
-position = "{816, -430}";
 }
 );
 paths = (
@@ -76409,6 +76414,10 @@ position = "{821, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{857, -540}";
+},
+{
 name = candra;
 position = "{859, 1187}";
 },
@@ -76419,10 +76428,6 @@ position = "{119, -648}";
 {
 name = top;
 position = "{821, 1187}";
-},
-{
-name = bottom;
-position = "{857, -540}";
 }
 );
 paths = (
@@ -76737,6 +76742,10 @@ position = "{769, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{661, -490}";
+},
+{
 name = candra;
 position = "{759, 1187}";
 },
@@ -76747,10 +76756,6 @@ position = "{89, -578}";
 {
 name = top;
 position = "{769, 1187}";
-},
-{
-name = bottom;
-position = "{661, -490}";
 }
 );
 paths = (
@@ -76994,6 +76999,10 @@ position = "{789, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{707, -560}";
+},
+{
 name = candra;
 position = "{829, 1187}";
 },
@@ -77004,10 +77013,6 @@ position = "{89, -678}";
 {
 name = top;
 position = "{789, 1187}";
-},
-{
-name = bottom;
-position = "{707, -560}";
 }
 );
 paths = (
@@ -77260,6 +77265,10 @@ position = "{1987, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1997, 0}";
+},
+{
 name = candra;
 position = "{1289, 1187}";
 },
@@ -77270,10 +77279,6 @@ position = "{109, -574}";
 {
 name = top;
 position = "{1987, 1187}";
-},
-{
-name = bottom;
-position = "{1997, 0}";
 }
 );
 components = (
@@ -77409,6 +77414,10 @@ position = "{2277, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{2287, 0}";
+},
+{
 name = candra;
 position = "{1289, 1187}";
 },
@@ -77419,10 +77428,6 @@ position = "{72, -679}";
 {
 name = top;
 position = "{2277, 1187}";
-},
-{
-name = bottom;
-position = "{2287, 0}";
 }
 );
 components = (
@@ -77567,6 +77572,10 @@ position = "{739, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{766, -350}";
+},
+{
 name = candra;
 position = "{759, 1187}";
 },
@@ -77577,10 +77586,6 @@ position = "{119, -378}";
 {
 name = top;
 position = "{739, 1187}";
-},
-{
-name = bottom;
-position = "{766, -350}";
 }
 );
 paths = (
@@ -77782,6 +77787,10 @@ position = "{789, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{857, -460}";
+},
+{
 name = candra;
 position = "{759, 1187}";
 },
@@ -77792,10 +77801,6 @@ position = "{119, -578}";
 {
 name = top;
 position = "{789, 1187}";
-},
-{
-name = bottom;
-position = "{857, -460}";
 }
 );
 paths = (
@@ -78006,6 +78011,10 @@ position = "{1985, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1985, 0}";
+},
+{
 name = candra;
 position = "{1289, 1187}";
 },
@@ -78016,10 +78025,6 @@ position = "{170, -179}";
 {
 name = top;
 position = "{1985, 1187}";
-},
-{
-name = bottom;
-position = "{1985, 0}";
 }
 );
 components = (
@@ -78155,6 +78160,10 @@ position = "{2241, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{2241, 0}";
+},
+{
 name = candra;
 position = "{1289, 1187}";
 },
@@ -78165,10 +78174,6 @@ position = "{170, -179}";
 {
 name = top;
 position = "{2241, 1187}";
-},
-{
-name = bottom;
-position = "{2241, 0}";
 }
 );
 components = (
@@ -78397,6 +78402,10 @@ position = "{819, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{847, -470}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -78407,10 +78416,6 @@ position = "{209, -548}";
 {
 name = top;
 position = "{819, 1187}";
-},
-{
-name = bottom;
-position = "{847, -470}";
 }
 );
 paths = (
@@ -78678,6 +78683,10 @@ position = "{909, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{971, -580}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -78688,10 +78697,6 @@ position = "{209, -648}";
 {
 name = top;
 position = "{909, 1187}";
-},
-{
-name = bottom;
-position = "{971, -580}";
 }
 );
 paths = (
@@ -78968,6 +78973,10 @@ position = "{819, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{637, -500}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -78978,10 +78987,6 @@ position = "{109, -548}";
 {
 name = top;
 position = "{819, 1187}";
-},
-{
-name = bottom;
-position = "{637, -500}";
 }
 );
 paths = (
@@ -79231,6 +79236,10 @@ position = "{929, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{777, -600}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -79241,10 +79250,6 @@ position = "{109, -648}";
 {
 name = top;
 position = "{929, 1187}";
-},
-{
-name = bottom;
-position = "{777, -600}";
 }
 );
 paths = (
@@ -79503,6 +79508,10 @@ position = "{819, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{617, -570}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -79513,10 +79522,6 @@ position = "{109, -608}";
 {
 name = top;
 position = "{819, 1187}";
-},
-{
-name = bottom;
-position = "{617, -570}";
 }
 );
 paths = (
@@ -79796,6 +79801,10 @@ position = "{929, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{777, -710}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -79806,10 +79815,6 @@ position = "{119, -768}";
 {
 name = top;
 position = "{929, 1187}";
-},
-{
-name = bottom;
-position = "{777, -710}";
 }
 );
 paths = (
@@ -80094,16 +80099,16 @@ position = "{1924, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1924, 1187}";
-},
-{
 name = bottom;
 position = "{1924, 0}";
 },
 {
 name = candra;
 position = "{1089, 1187}";
+},
+{
+name = top;
+position = "{1924, 1187}";
 }
 );
 components = (
@@ -80235,16 +80240,16 @@ position = "{2246, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2246, 1187}";
-},
-{
 name = bottom;
 position = "{2246, 0}";
 },
 {
 name = candra;
 position = "{1389, 1187}";
+},
+{
+name = top;
+position = "{2246, 1187}";
 }
 );
 components = (
@@ -80389,6 +80394,10 @@ position = "{822, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{650, -520}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -80399,10 +80408,6 @@ position = "{109, -548}";
 {
 name = top;
 position = "{822, 1187}";
-},
-{
-name = bottom;
-position = "{650, -520}";
 }
 );
 paths = (
@@ -80696,6 +80701,10 @@ position = "{928, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{786, -673}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -80706,10 +80715,6 @@ position = "{109, -748}";
 {
 name = top;
 position = "{928, 1187}";
-},
-{
-name = bottom;
-position = "{786, -673}";
 }
 );
 paths = (
@@ -81012,6 +81017,10 @@ position = "{815, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{781, -340}";
+},
+{
 name = candra;
 position = "{779, 1187}";
 },
@@ -81022,10 +81031,6 @@ position = "{109, -348}";
 {
 name = top;
 position = "{815, 1187}";
-},
-{
-name = bottom;
-position = "{781, -340}";
 }
 );
 paths = (
@@ -81233,6 +81238,10 @@ position = "{929, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{937, -490}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -81243,10 +81252,6 @@ position = "{109, -548}";
 {
 name = top;
 position = "{929, 1187}";
-},
-{
-name = bottom;
-position = "{937, -490}";
 }
 );
 paths = (
@@ -81459,16 +81464,16 @@ position = "{1794, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1794, 1187}";
-},
-{
 name = bottom;
 position = "{1794, 0}";
 },
 {
 name = candra;
 position = "{1089, 1187}";
+},
+{
+name = top;
+position = "{1794, 1187}";
 }
 );
 components = (
@@ -81594,16 +81599,16 @@ position = "{2055, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2055, 1187}";
-},
-{
 name = bottom;
 position = "{2055, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{2055, 1187}";
 }
 );
 components = (
@@ -81742,6 +81747,10 @@ position = "{1924, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1924, 0}";
+},
+{
 name = candra;
 position = "{1089, 1187}";
 },
@@ -81752,10 +81761,6 @@ position = "{609, -246}";
 {
 name = top;
 position = "{1924, 1187}";
-},
-{
-name = bottom;
-position = "{1924, 0}";
 }
 );
 components = (
@@ -81891,6 +81896,10 @@ position = "{2176, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{2176, 0}";
+},
+{
 name = candra;
 position = "{1189, 1187}";
 },
@@ -81901,10 +81910,6 @@ position = "{709, -348}";
 {
 name = top;
 position = "{2176, 1187}";
-},
-{
-name = bottom;
-position = "{2176, 0}";
 }
 );
 components = (
@@ -82131,6 +82136,10 @@ position = "{767, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{634, -540}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -82141,10 +82150,6 @@ position = "{119, -588}";
 {
 name = top;
 position = "{767, 1187}";
-},
-{
-name = bottom;
-position = "{634, -540}";
 }
 );
 paths = (
@@ -82452,6 +82457,10 @@ position = "{853, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{694, -700}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -82462,10 +82471,6 @@ position = "{119, -748}";
 {
 name = top;
 position = "{853, 1187}";
-},
-{
-name = bottom;
-position = "{694, -700}";
 }
 );
 paths = (
@@ -82778,16 +82783,16 @@ position = "{1924, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1924, 1187}";
-},
-{
 name = bottom;
 position = "{1924, 0}";
 },
 {
 name = candra;
 position = "{1089, 1187}";
+},
+{
+name = top;
+position = "{1924, 1187}";
 }
 );
 components = (
@@ -82919,16 +82924,16 @@ position = "{2166, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2166, 1187}";
-},
-{
 name = bottom;
 position = "{2166, 0}";
 },
 {
 name = candra;
 position = "{1289, 1187}";
+},
+{
+name = top;
+position = "{2166, 1187}";
 }
 );
 components = (
@@ -83073,6 +83078,10 @@ position = "{760, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{745, -330}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -83083,10 +83092,6 @@ position = "{109, -358}";
 {
 name = top;
 position = "{760, 1187}";
-},
-{
-name = bottom;
-position = "{745, -330}";
 }
 );
 paths = (
@@ -83308,6 +83313,10 @@ position = "{853, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{864, -470}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -83318,10 +83327,6 @@ position = "{109, -598}";
 {
 name = top;
 position = "{853, 1187}";
-},
-{
-name = bottom;
-position = "{864, -470}";
 }
 );
 paths = (
@@ -83548,16 +83553,16 @@ position = "{1941, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1941, 1187}";
-},
-{
 name = bottom;
 position = "{1941, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{1941, 1187}";
 }
 );
 components = (
@@ -83689,16 +83694,16 @@ position = "{2191, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2191, 1187}";
-},
-{
 name = bottom;
 position = "{2191, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{2191, 1187}";
 }
 );
 components = (
@@ -83843,6 +83848,10 @@ position = "{1134, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1134, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -83853,10 +83862,6 @@ position = "{295, 0}";
 {
 name = top;
 position = "{1134, 1187}";
-},
-{
-name = bottom;
-position = "{1134, 0}";
 }
 );
 paths = (
@@ -84004,6 +84009,10 @@ position = "{1272, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1272, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -84014,10 +84023,6 @@ position = "{295, 0}";
 {
 name = top;
 position = "{1272, 1187}";
-},
-{
-name = bottom;
-position = "{1272, 0}";
 }
 );
 paths = (
@@ -84405,6 +84410,10 @@ position = "{845, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{845, 0}";
+},
+{
 name = candra;
 position = "{589, 1187}";
 },
@@ -84415,10 +84424,6 @@ position = "{484, -158}";
 {
 name = top;
 position = "{845, 1187}";
-},
-{
-name = bottom;
-position = "{845, 0}";
 }
 );
 paths = (
@@ -84536,6 +84541,10 @@ position = "{926, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{926, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -84546,10 +84555,6 @@ position = "{564, -158}";
 {
 name = top;
 position = "{926, 1187}";
-},
-{
-name = bottom;
-position = "{926, 0}";
 }
 );
 paths = (
@@ -84676,6 +84681,10 @@ position = "{959, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{959, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -84686,10 +84695,6 @@ position = "{116, 0}";
 {
 name = top;
 position = "{959, 1187}";
-},
-{
-name = bottom;
-position = "{959, 0}";
 }
 );
 paths = (
@@ -84809,6 +84814,10 @@ position = "{1088, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1088, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -84819,10 +84828,6 @@ position = "{116, 0}";
 {
 name = top;
 position = "{1088, 1187}";
-},
-{
-name = bottom;
-position = "{1088, 0}";
 }
 );
 paths = (
@@ -85367,6 +85372,10 @@ position = "{973, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{973, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -85377,10 +85386,6 @@ position = "{123, 130}";
 {
 name = top;
 position = "{973, 1187}";
-},
-{
-name = bottom;
-position = "{973, 0}";
 }
 );
 paths = (
@@ -85550,6 +85555,10 @@ position = "{1158, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1158, 0}";
+},
+{
 name = candra;
 position = "{989, 1187}";
 },
@@ -85560,10 +85569,6 @@ position = "{123, 30}";
 {
 name = top;
 position = "{1158, 1187}";
-},
-{
-name = bottom;
-position = "{1158, 0}";
 }
 );
 paths = (
@@ -85849,16 +85854,16 @@ position = "{136, -44}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{136, -44}";
-},
-{
 name = bottom;
 position = "{804, -126}";
 },
 {
 name = candra;
 position = "{691, 1187}";
+},
+{
+name = nukta;
+position = "{136, -44}";
 }
 );
 components = (
@@ -85916,16 +85921,16 @@ position = "{136, -44}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{136, -44}";
-},
-{
 name = bottom;
 position = "{958, -209}";
 },
 {
 name = candra;
 position = "{791, 1187}";
+},
+{
+name = nukta;
+position = "{136, -44}";
 }
 );
 components = (
@@ -85992,16 +85997,16 @@ position = "{2011, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2011, 1187}";
-},
-{
 name = bottom;
 position = "{2011, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{2011, 1187}";
 }
 );
 components = (
@@ -86133,16 +86138,16 @@ position = "{2231, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2231, 1187}";
-},
-{
 name = bottom;
 position = "{2231, 0}";
 },
 {
 name = candra;
 position = "{1289, 1187}";
+},
+{
+name = top;
+position = "{2231, 1187}";
 }
 );
 components = (
@@ -86286,6 +86291,10 @@ position = "{776, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{793, 10}";
+},
+{
 name = candra;
 position = "{691, 1187}";
 },
@@ -86296,10 +86305,6 @@ position = "{106, 0}";
 {
 name = top;
 position = "{776, 1187}";
-},
-{
-name = bottom;
-position = "{793, 10}";
 }
 );
 paths = (
@@ -86553,6 +86558,10 @@ position = "{890, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{868, -70}";
+},
+{
 name = candra;
 position = "{791, 1187}";
 },
@@ -86563,10 +86572,6 @@ position = "{151, -40}";
 {
 name = top;
 position = "{890, 1187}";
-},
-{
-name = bottom;
-position = "{868, -70}";
 }
 );
 paths = (
@@ -86825,16 +86830,16 @@ position = "{756, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{691, 1187}";
+},
+{
 name = nukta;
 position = "{151, -40}";
 },
 {
 name = top;
 position = "{756, 1187}";
-},
-{
-name = candra;
-position = "{691, 1187}";
 }
 );
 paths = (
@@ -87090,16 +87095,16 @@ position = "{886, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{791, 1187}";
+},
+{
 name = nukta;
 position = "{151, -40}";
 },
 {
 name = top;
 position = "{886, 1187}";
-},
-{
-name = candra;
-position = "{791, 1187}";
 }
 );
 paths = (
@@ -87364,16 +87369,16 @@ position = "{763, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{691, 1187}";
+},
+{
 name = nukta;
 position = "{236, -85}";
 },
 {
 name = top;
 position = "{763, 1187}";
-},
-{
-name = candra;
-position = "{691, 1187}";
 }
 );
 paths = (
@@ -87605,16 +87610,16 @@ position = "{892, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{791, 1187}";
+},
+{
 name = nukta;
 position = "{336, -185}";
 },
 {
 name = top;
 position = "{892, 1187}";
-},
-{
-name = candra;
-position = "{791, 1187}";
 }
 );
 paths = (
@@ -87855,16 +87860,16 @@ position = "{758, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{691, 1187}";
+},
+{
 name = nukta;
 position = "{336, -185}";
 },
 {
 name = top;
 position = "{758, 1187}";
-},
-{
-name = candra;
-position = "{691, 1187}";
 }
 );
 paths = (
@@ -88102,16 +88107,16 @@ position = "{890, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{791, 1187}";
+},
+{
 name = nukta;
 position = "{336, -185}";
 },
 {
 name = top;
 position = "{890, 1187}";
-},
-{
-name = candra;
-position = "{791, 1187}";
 }
 );
 paths = (
@@ -88362,6 +88367,10 @@ position = "{822, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{984, -110}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -88372,10 +88381,6 @@ position = "{56, -5}";
 {
 name = top;
 position = "{822, 1187}";
-},
-{
-name = bottom;
-position = "{984, -110}";
 }
 );
 paths = (
@@ -88609,6 +88614,10 @@ position = "{757, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{854, -80}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -88619,10 +88628,6 @@ position = "{156, -5}";
 {
 name = top;
 position = "{757, 1187}";
-},
-{
-name = bottom;
-position = "{854, -80}";
 }
 );
 paths = (
@@ -88948,12 +88953,12 @@ position = "{755, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{146, 35}";
-},
-{
 name = bottom;
 position = "{854, -80}";
+},
+{
+name = nukta;
+position = "{146, 35}";
 },
 {
 name = top;
@@ -89243,12 +89248,12 @@ position = "{842, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{46, 65}";
-},
-{
 name = bottom;
 position = "{984, -110}";
+},
+{
+name = nukta;
+position = "{46, 65}";
 },
 {
 name = top;
@@ -90168,6 +90173,10 @@ position = "{885, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1004, -70}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -90178,10 +90187,6 @@ position = "{156, -405}";
 {
 name = top;
 position = "{885, 1187}";
-},
-{
-name = bottom;
-position = "{1004, -70}";
 }
 );
 paths = (
@@ -90449,6 +90454,10 @@ position = "{942, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1054, -140}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -90459,10 +90468,6 @@ position = "{186, -605}";
 {
 name = top;
 position = "{942, 1187}";
-},
-{
-name = bottom;
-position = "{1054, -140}";
 }
 );
 paths = (
@@ -90735,12 +90740,12 @@ position = "{885, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{287, -505}";
-},
-{
 name = bottom;
 position = "{1004, -70}";
+},
+{
+name = nukta;
+position = "{287, -505}";
 },
 {
 name = top;
@@ -91070,12 +91075,12 @@ position = "{942, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{186, -575}";
-},
-{
 name = bottom;
 position = "{1054, -140}";
+},
+{
+name = nukta;
+position = "{186, -575}";
 },
 {
 name = top;
@@ -92101,16 +92106,16 @@ position = "{2011, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2011, 1187}";
-},
-{
 name = bottom;
 position = "{2011, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{2011, 1187}";
 }
 );
 components = (
@@ -92242,16 +92247,16 @@ position = "{2231, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2231, 1187}";
-},
-{
 name = bottom;
 position = "{2231, 0}";
 },
 {
 name = candra;
 position = "{1289, 1187}";
+},
+{
+name = top;
+position = "{2231, 1187}";
 }
 );
 components = (
@@ -92395,6 +92400,10 @@ position = "{708, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{778, -140}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -92405,10 +92414,6 @@ position = "{136, -205}";
 {
 name = top;
 position = "{708, 1187}";
-},
-{
-name = bottom;
-position = "{778, -140}";
 }
 );
 paths = (
@@ -92630,6 +92635,10 @@ position = "{812, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{881, -232}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -92640,10 +92649,6 @@ position = "{236, -305}";
 {
 name = top;
 position = "{812, 1187}";
-},
-{
-name = bottom;
-position = "{881, -232}";
 }
 );
 paths = (
@@ -92870,12 +92875,12 @@ position = "{708, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{206, -225}";
-},
-{
 name = bottom;
 position = "{778, -140}";
+},
+{
+name = nukta;
+position = "{206, -225}";
 },
 {
 name = top;
@@ -93153,12 +93158,12 @@ position = "{812, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{246, -325}";
-},
-{
 name = bottom;
 position = "{881, -232}";
+},
+{
+name = nukta;
+position = "{246, -325}";
 },
 {
 name = top;
@@ -93445,12 +93450,12 @@ position = "{708, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{296, -275}";
-},
-{
 name = bottom;
 position = "{778, -140}";
+},
+{
+name = nukta;
+position = "{296, -275}";
 },
 {
 name = top;
@@ -93728,12 +93733,12 @@ position = "{812, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{306, -413}";
-},
-{
 name = bottom;
 position = "{881, -232}";
+},
+{
+name = nukta;
+position = "{306, -413}";
 },
 {
 name = top;
@@ -94020,16 +94025,16 @@ position = "{1779, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1779, 1187}";
-},
-{
 name = bottom;
 position = "{1779, 0}";
 },
 {
 name = candra;
 position = "{1049, 1187}";
+},
+{
+name = top;
+position = "{1779, 1187}";
 }
 );
 components = (
@@ -94161,16 +94166,16 @@ position = "{2025, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2025, 1187}";
-},
-{
 name = bottom;
 position = "{2025, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{2025, 1187}";
 }
 );
 components = (
@@ -94315,6 +94320,10 @@ position = "{925, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1036, -60}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -94325,10 +94334,6 @@ position = "{296, -465}";
 {
 name = top;
 position = "{925, 1187}";
-},
-{
-name = bottom;
-position = "{1036, -60}";
 }
 );
 paths = (
@@ -94620,6 +94625,10 @@ position = "{1052, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1125, -108}";
+},
+{
 name = candra;
 position = "{989, 1187}";
 },
@@ -94630,10 +94639,6 @@ position = "{296, -565}";
 {
 name = top;
 position = "{1052, 1187}";
-},
-{
-name = bottom;
-position = "{1125, -108}";
 }
 );
 paths = (
@@ -94930,12 +94935,12 @@ position = "{925, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{296, -465}";
-},
-{
 name = bottom;
 position = "{1036, -60}";
+},
+{
+name = nukta;
+position = "{296, -465}";
 },
 {
 name = top;
@@ -95283,12 +95288,12 @@ position = "{1052, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{296, -565}";
-},
-{
 name = bottom;
 position = "{1125, -108}";
+},
+{
+name = nukta;
+position = "{296, -565}";
 },
 {
 name = top;
@@ -96320,16 +96325,16 @@ position = "{2018, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2018, 1187}";
-},
-{
 name = bottom;
 position = "{2018, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{2018, 1187}";
 }
 );
 components = (
@@ -96461,16 +96466,16 @@ position = "{2320, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2320, 1187}";
-},
-{
 name = bottom;
 position = "{2320, 0}";
 },
 {
 name = candra;
 position = "{1289, 1187}";
+},
+{
+name = top;
+position = "{2320, 1187}";
 }
 );
 components = (
@@ -96850,12 +96855,12 @@ position = "{776, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{106, 0}";
-},
-{
 name = bottom;
 position = "{793, 10}";
+},
+{
+name = nukta;
+position = "{106, 0}";
 },
 {
 name = top;
@@ -97131,12 +97136,12 @@ position = "{890, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{91, -30}";
-},
-{
 name = bottom;
 position = "{868, -70}";
+},
+{
+name = nukta;
+position = "{91, -30}";
 },
 {
 name = top;
@@ -97968,6 +97973,10 @@ position = "{765, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{884, -70}";
+},
+{
 name = candra;
 position = "{709, 1187}";
 },
@@ -97978,10 +97987,6 @@ position = "{203, -400}";
 {
 name = top;
 position = "{765, 1187}";
-},
-{
-name = bottom;
-position = "{884, -70}";
 }
 );
 paths = (
@@ -98247,6 +98252,10 @@ position = "{862, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{944, -120}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -98257,10 +98266,6 @@ position = "{106, -400}";
 {
 name = top;
 position = "{862, 1187}";
-},
-{
-name = bottom;
-position = "{944, -120}";
 }
 );
 paths = (
@@ -98618,12 +98623,12 @@ position = "{765, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{206, -400}";
-},
-{
 name = bottom;
 position = "{884, -70}";
+},
+{
+name = nukta;
+position = "{206, -400}";
 },
 {
 name = top;
@@ -98957,12 +98962,12 @@ position = "{862, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{106, -400}";
-},
-{
 name = bottom;
 position = "{944, -120}";
+},
+{
+name = nukta;
+position = "{106, -400}";
 },
 {
 name = top;
@@ -99980,6 +99985,10 @@ position = "{945, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1074, -80}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -99990,10 +99999,6 @@ position = "{106, -400}";
 {
 name = top;
 position = "{945, 1187}";
-},
-{
-name = bottom;
-position = "{1074, -80}";
 }
 );
 paths = (
@@ -100271,6 +100276,10 @@ position = "{1152, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1194, -100}";
+},
+{
 name = candra;
 position = "{989, 1187}";
 },
@@ -100281,10 +100290,6 @@ position = "{206, -550}";
 {
 name = top;
 position = "{1152, 1187}";
-},
-{
-name = bottom;
-position = "{1194, -100}";
 }
 );
 paths = (
@@ -100567,12 +100572,12 @@ position = "{945, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{206, -450}";
-},
-{
 name = bottom;
 position = "{1074, -80}";
+},
+{
+name = nukta;
+position = "{206, -450}";
 },
 {
 name = top;
@@ -100912,12 +100917,12 @@ position = "{1152, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{206, -550}";
-},
-{
 name = bottom;
 position = "{1194, -100}";
+},
+{
+name = nukta;
+position = "{206, -550}";
 },
 {
 name = top;
@@ -101949,16 +101954,16 @@ position = "{2064, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2064, 1187}";
-},
-{
 name = bottom;
 position = "{2064, 0}";
 },
 {
 name = candra;
 position = "{1289, 1187}";
+},
+{
+name = top;
+position = "{2064, 1187}";
 }
 );
 components = (
@@ -102090,16 +102095,16 @@ position = "{2430, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2430, 1187}";
-},
-{
 name = bottom;
 position = "{2430, 0}";
 },
 {
 name = candra;
 position = "{1389, 1187}";
+},
+{
+name = top;
+position = "{2430, 1187}";
 }
 );
 components = (
@@ -102244,6 +102249,10 @@ position = "{1028, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1028, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -102254,10 +102263,6 @@ position = "{206, -34}";
 {
 name = top;
 position = "{1028, 1187}";
-},
-{
-name = bottom;
-position = "{1028, 0}";
 }
 );
 paths = (
@@ -102435,6 +102440,10 @@ position = "{1217, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1217, 0}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -102445,10 +102454,6 @@ position = "{206, -44}";
 {
 name = top;
 position = "{1217, 1187}";
-},
-{
-name = bottom;
-position = "{1217, 0}";
 }
 );
 paths = (
@@ -102635,6 +102640,10 @@ position = "{928, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{928, 0}";
+},
+{
 name = candra;
 position = "{629, 1187}";
 },
@@ -102645,10 +102654,6 @@ position = "{106, -44}";
 {
 name = top;
 position = "{928, 1187}";
-},
-{
-name = bottom;
-position = "{928, 0}";
 }
 );
 paths = (
@@ -102830,6 +102835,10 @@ position = "{1140, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1140, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -102840,10 +102849,6 @@ position = "{106, -44}";
 {
 name = top;
 position = "{1140, 1187}";
-},
-{
-name = bottom;
-position = "{1140, 0}";
 }
 );
 paths = (
@@ -103095,6 +103100,10 @@ position = "{852, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{994, -290}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -103105,10 +103114,6 @@ position = "{151, -390}";
 {
 name = top;
 position = "{852, 1187}";
-},
-{
-name = bottom;
-position = "{994, -290}";
 }
 );
 paths = (
@@ -103338,6 +103343,10 @@ position = "{755, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{934, -190}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -103348,10 +103357,6 @@ position = "{151, -340}";
 {
 name = top;
 position = "{755, 1187}";
-},
-{
-name = bottom;
-position = "{934, -190}";
 }
 );
 paths = (
@@ -103586,12 +103591,12 @@ position = "{755, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{151, -390}";
-},
-{
 name = bottom;
 position = "{904, -90}";
+},
+{
+name = nukta;
+position = "{151, -390}";
 },
 {
 name = top;
@@ -103877,12 +103882,12 @@ position = "{852, 1187}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{151, -390}";
-},
-{
 name = bottom;
 position = "{954, -140}";
+},
+{
+name = nukta;
+position = "{151, -390}";
 },
 {
 name = top;
@@ -104740,16 +104745,16 @@ position = "{1924, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{1924, 1187}";
-},
-{
 name = bottom;
 position = "{1924, 0}";
 },
 {
 name = candra;
 position = "{1189, 1187}";
+},
+{
+name = top;
+position = "{1924, 1187}";
 }
 );
 components = (
@@ -104881,16 +104886,16 @@ position = "{2170, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{2170, 1187}";
-},
-{
 name = bottom;
 position = "{2170, 0}";
 },
 {
 name = candra;
 position = "{1289, 1187}";
+},
+{
+name = top;
+position = "{2170, 1187}";
 }
 );
 components = (
@@ -105206,6 +105211,10 @@ position = "{992, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{992, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -105216,10 +105225,6 @@ position = "{61, 130}";
 {
 name = top;
 position = "{992, 1187}";
-},
-{
-name = bottom;
-position = "{992, 0}";
 }
 );
 components = (
@@ -105269,6 +105274,10 @@ position = "{1102, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1102, 0}";
+},
+{
 name = candra;
 position = "{899, 1187}";
 },
@@ -105279,10 +105288,6 @@ position = "{62, 130}";
 {
 name = top;
 position = "{1102, 1187}";
-},
-{
-name = bottom;
-position = "{1102, 0}";
 }
 );
 components = (
@@ -105452,6 +105457,10 @@ position = "{892, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{892, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -105462,10 +105471,6 @@ position = "{152, -210}";
 {
 name = top;
 position = "{892, 1187}";
-},
-{
-name = bottom;
-position = "{892, 0}";
 }
 );
 paths = (
@@ -105585,6 +105590,10 @@ position = "{959, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{959, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -105595,10 +105604,6 @@ position = "{152, -310}";
 {
 name = top;
 position = "{959, 1187}";
-},
-{
-name = bottom;
-position = "{959, 0}";
 }
 );
 paths = (
@@ -105727,6 +105732,10 @@ position = "{892, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{892, 0}";
+},
+{
 name = candra;
 position = "{649, 1187}";
 },
@@ -105737,10 +105746,6 @@ position = "{160, -130}";
 {
 name = top;
 position = "{892, 1187}";
-},
-{
-name = bottom;
-position = "{892, 0}";
 }
 );
 paths = (
@@ -105882,6 +105887,10 @@ position = "{962, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{962, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -105892,10 +105901,6 @@ position = "{160, -230}";
 {
 name = top;
 position = "{962, 1187}";
-},
-{
-name = bottom;
-position = "{962, 0}";
 }
 );
 paths = (
@@ -106282,6 +106287,10 @@ position = "{1527, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1527, 0}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -106292,10 +106301,6 @@ position = "{360, -30}";
 {
 name = top;
 position = "{1527, 1187}";
-},
-{
-name = bottom;
-position = "{1527, 0}";
 }
 );
 paths = (
@@ -106493,6 +106498,10 @@ position = "{1605, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1605, 0}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -106503,10 +106512,6 @@ position = "{360, -30}";
 {
 name = top;
 position = "{1605, 1187}";
-},
-{
-name = bottom;
-position = "{1605, 0}";
 }
 );
 paths = (
@@ -106713,6 +106718,10 @@ position = "{1561, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1561, 0}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -106723,10 +106732,6 @@ position = "{243, 0}";
 {
 name = top;
 position = "{1561, 1187}";
-},
-{
-name = bottom;
-position = "{1561, 0}";
 }
 );
 components = (
@@ -106826,6 +106831,10 @@ position = "{1656, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1656, 0}";
+},
+{
 name = candra;
 position = "{1089, 1187}";
 },
@@ -106836,10 +106845,6 @@ position = "{263, -30}";
 {
 name = top;
 position = "{1656, 1187}";
-},
-{
-name = bottom;
-position = "{1656, 0}";
 }
 );
 components = (
@@ -107110,6 +107115,10 @@ position = "{812, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{812, 0}";
+},
+{
 name = candra;
 position = "{579, 1187}";
 },
@@ -107120,10 +107129,6 @@ position = "{99, 274}";
 {
 name = top;
 position = "{812, 1187}";
-},
-{
-name = bottom;
-position = "{812, 0}";
 }
 );
 paths = (
@@ -107257,6 +107262,10 @@ position = "{933, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{933, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -107267,10 +107276,6 @@ position = "{19, 284}";
 {
 name = top;
 position = "{933, 1187}";
-},
-{
-name = bottom;
-position = "{933, 0}";
 }
 );
 paths = (
@@ -107405,12 +107410,12 @@ position = "{352, -10}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{352, -10}";
-},
-{
 name = candra;
 position = "{989, 1187}";
+},
+{
+name = nukta;
+position = "{352, -10}";
 }
 );
 components = (
@@ -107506,12 +107511,12 @@ position = "{352, -10}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{352, -10}";
-},
-{
 name = candra;
 position = "{1089, 1187}";
+},
+{
+name = nukta;
+position = "{352, -10}";
 }
 );
 components = (
@@ -107622,6 +107627,10 @@ position = "{769, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{554, -70}";
+},
+{
 name = candra;
 position = "{568, 1187}";
 },
@@ -107632,10 +107641,6 @@ position = "{52, -110}";
 {
 name = top;
 position = "{769, 1187}";
-},
-{
-name = bottom;
-position = "{554, -70}";
 }
 );
 paths = (
@@ -107785,6 +107790,10 @@ position = "{839, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{654, -60}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -107795,10 +107804,6 @@ position = "{52, -160}";
 {
 name = top;
 position = "{839, 1187}";
-},
-{
-name = bottom;
-position = "{654, -60}";
 }
 );
 paths = (
@@ -108290,6 +108295,10 @@ position = "{843, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{843, 0}";
+},
+{
 name = candra;
 position = "{589, 1187}";
 },
@@ -108300,10 +108309,6 @@ position = "{47, 95}";
 {
 name = top;
 position = "{843, 1187}";
-},
-{
-name = bottom;
-position = "{843, 0}";
 }
 );
 paths = (
@@ -108517,6 +108522,10 @@ position = "{930, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{930, 0}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -108527,10 +108536,6 @@ position = "{17, 135}";
 {
 name = top;
 position = "{930, 1187}";
-},
-{
-name = bottom;
-position = "{930, 0}";
 }
 );
 paths = (
@@ -109912,16 +109917,16 @@ position = "{509, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{491, 1187}";
+},
+{
 name = nukta;
 position = "{153, 0}";
 },
 {
 name = top;
 position = "{509, 1187}";
-},
-{
-name = candra;
-position = "{491, 1187}";
 }
 );
 components = (
@@ -110035,16 +110040,16 @@ position = "{589, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{591, 1187}";
+},
+{
 name = nukta;
 position = "{153, 0}";
 },
 {
 name = top;
 position = "{589, 1187}";
-},
-{
-name = candra;
-position = "{591, 1187}";
 }
 );
 components = (
@@ -110169,16 +110174,16 @@ position = "{509, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{491, 1187}";
+},
+{
 name = nukta;
 position = "{153, 0}";
 },
 {
 name = top;
 position = "{509, 1187}";
-},
-{
-name = candra;
-position = "{491, 1187}";
 }
 );
 components = (
@@ -110304,16 +110309,16 @@ position = "{546, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{591, 1187}";
+},
+{
 name = nukta;
 position = "{153, 0}";
 },
 {
 name = top;
 position = "{546, 1187}";
-},
-{
-name = candra;
-position = "{591, 1187}";
 }
 );
 components = (
@@ -111099,6 +111104,10 @@ position = "{1095, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1095, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -111109,10 +111118,6 @@ position = "{93, -99}";
 {
 name = top;
 position = "{1095, 1187}";
-},
-{
-name = bottom;
-position = "{1095, 0}";
 }
 );
 paths = (
@@ -111282,6 +111287,10 @@ position = "{1163, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1163, 0}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -111292,10 +111301,6 @@ position = "{93, -99}";
 {
 name = top;
 position = "{1163, 1187}";
-},
-{
-name = bottom;
-position = "{1163, 0}";
 }
 );
 paths = (
@@ -111474,6 +111479,10 @@ position = "{1095, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1095, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -111484,10 +111493,6 @@ position = "{173, -30}";
 {
 name = top;
 position = "{1095, 1187}";
-},
-{
-name = bottom;
-position = "{1095, 0}";
 }
 );
 paths = (
@@ -111707,6 +111712,10 @@ position = "{1163, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1163, 0}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -111717,10 +111726,6 @@ position = "{113, -40}";
 {
 name = top;
 position = "{1163, 1187}";
-},
-{
-name = bottom;
-position = "{1163, 0}";
 }
 );
 paths = (
@@ -111949,6 +111954,10 @@ position = "{1095, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1095, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -111959,10 +111968,6 @@ position = "{193, -180}";
 {
 name = top;
 position = "{1095, 1187}";
-},
-{
-name = bottom;
-position = "{1095, 0}";
 }
 );
 paths = (
@@ -112158,6 +112163,10 @@ position = "{1193, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1193, 0}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -112168,10 +112177,6 @@ position = "{193, -180}";
 {
 name = top;
 position = "{1193, 1187}";
-},
-{
-name = bottom;
-position = "{1193, 0}";
 }
 );
 paths = (
@@ -112687,6 +112692,10 @@ position = "{1095, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1095, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -112697,10 +112706,6 @@ position = "{193, 1}";
 {
 name = top;
 position = "{1095, 1187}";
-},
-{
-name = bottom;
-position = "{1095, 0}";
 }
 );
 paths = (
@@ -112920,6 +112925,10 @@ position = "{1163, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1163, -60}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -112930,10 +112939,6 @@ position = "{193, -99}";
 {
 name = top;
 position = "{1163, 1187}";
-},
-{
-name = bottom;
-position = "{1163, -60}";
 }
 );
 paths = (
@@ -113270,6 +113275,10 @@ position = "{782, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{543, -80}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -113280,10 +113289,6 @@ position = "{33, -99}";
 {
 name = top;
 position = "{782, 1187}";
-},
-{
-name = bottom;
-position = "{543, -80}";
 }
 );
 paths = (
@@ -113479,6 +113484,10 @@ position = "{884, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{663, -80}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -113489,10 +113498,6 @@ position = "{43, -129}";
 {
 name = top;
 position = "{884, 1187}";
-},
-{
-name = bottom;
-position = "{663, -80}";
 }
 );
 paths = (
@@ -113780,6 +113785,10 @@ position = "{762, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{713, -564}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -113790,10 +113799,6 @@ position = "{133, -629}";
 {
 name = top;
 position = "{762, 1187}";
-},
-{
-name = bottom;
-position = "{713, -564}";
 }
 );
 components = (
@@ -113923,6 +113928,10 @@ position = "{834, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{863, -640}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -113933,10 +113942,6 @@ position = "{173, -729}";
 {
 name = top;
 position = "{834, 1187}";
-},
-{
-name = bottom;
-position = "{863, -640}";
 }
 );
 components = (
@@ -114074,6 +114079,10 @@ position = "{758, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{573, -100}";
+},
+{
 name = candra;
 position = "{589, 1187}";
 },
@@ -114084,10 +114093,6 @@ position = "{73, -119}";
 {
 name = top;
 position = "{758, 1187}";
-},
-{
-name = bottom;
-position = "{573, -100}";
 }
 );
 paths = (
@@ -114291,6 +114296,10 @@ position = "{837, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{663, -90}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -114301,10 +114310,6 @@ position = "{33, -169}";
 {
 name = top;
 position = "{837, 1187}";
-},
-{
-name = bottom;
-position = "{663, -90}";
 }
 );
 paths = (
@@ -114600,6 +114605,10 @@ position = "{767, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{733, -580}";
+},
+{
 name = candra;
 position = "{589, 1187}";
 },
@@ -114610,10 +114619,6 @@ position = "{143, -619}";
 {
 name = top;
 position = "{767, 1187}";
-},
-{
-name = bottom;
-position = "{733, -580}";
 }
 );
 components = (
@@ -114743,6 +114748,10 @@ position = "{837, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{863, -640}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -114753,10 +114762,6 @@ position = "{143, -719}";
 {
 name = top;
 position = "{837, 1187}";
-},
-{
-name = bottom;
-position = "{863, -640}";
 }
 );
 components = (
@@ -114998,12 +115003,12 @@ position = "{95, -9}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{95, -9}";
-},
-{
 name = candra;
 position = "{729, 1187}";
+},
+{
+name = nukta;
+position = "{95, -9}";
 }
 );
 components = (
@@ -115171,12 +115176,12 @@ position = "{93, -9}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{93, -9}";
-},
-{
 name = candra;
 position = "{789, 1187}";
+},
+{
+name = nukta;
+position = "{93, -9}";
 }
 );
 components = (
@@ -115361,6 +115366,10 @@ position = "{1614, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1614, 0}";
+},
+{
 name = candra;
 position = "{989, 1187}";
 },
@@ -115371,10 +115380,6 @@ position = "{93, -9}";
 {
 name = top;
 position = "{1614, 1187}";
-},
-{
-name = bottom;
-position = "{1614, 0}";
 }
 );
 paths = (
@@ -115570,6 +115575,10 @@ position = "{1776, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1776, 0}";
+},
+{
 name = candra;
 position = "{1089, 1187}";
 },
@@ -115580,10 +115589,6 @@ position = "{93, -9}";
 {
 name = top;
 position = "{1776, 1187}";
-},
-{
-name = bottom;
-position = "{1776, 0}";
 }
 );
 paths = (
@@ -115788,6 +115793,10 @@ position = "{1730, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1730, 0}";
+},
+{
 name = candra;
 position = "{1189, 1187}";
 },
@@ -115798,10 +115807,6 @@ position = "{93, -9}";
 {
 name = top;
 position = "{1730, 1187}";
-},
-{
-name = bottom;
-position = "{1730, 0}";
 }
 );
 paths = (
@@ -116041,6 +116046,10 @@ position = "{1947, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1947, 0}";
+},
+{
 name = candra;
 position = "{1289, 1187}";
 },
@@ -116051,10 +116060,6 @@ position = "{93, -9}";
 {
 name = top;
 position = "{1947, 1187}";
-},
-{
-name = bottom;
-position = "{1947, 0}";
 }
 );
 paths = (
@@ -116614,6 +116619,10 @@ position = "{737, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{657, -223}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -116624,10 +116633,6 @@ position = "{46, -200}";
 {
 name = top;
 position = "{737, 1187}";
-},
-{
-name = bottom;
-position = "{657, -223}";
 }
 );
 paths = (
@@ -116831,6 +116836,10 @@ position = "{750, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{737, -280}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -116841,10 +116850,6 @@ position = "{46, -300}";
 {
 name = top;
 position = "{750, 1187}";
-},
-{
-name = bottom;
-position = "{737, -280}";
 }
 );
 paths = (
@@ -117053,16 +117058,16 @@ position = "{752, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{591, 1187}";
+},
+{
 name = nukta;
 position = "{93, -209}";
 },
 {
 name = top;
 position = "{752, 1187}";
-},
-{
-name = candra;
-position = "{591, 1187}";
 }
 );
 paths = (
@@ -117280,16 +117285,16 @@ position = "{760, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{591, 1187}";
+},
+{
 name = nukta;
 position = "{93, -211}";
 },
 {
 name = top;
 position = "{760, 1187}";
-},
-{
-name = candra;
-position = "{591, 1187}";
 }
 );
 paths = (
@@ -117516,16 +117521,16 @@ position = "{752, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{591, 1187}";
+},
+{
 name = nukta;
 position = "{93, -209}";
 },
 {
 name = top;
 position = "{752, 1187}";
-},
-{
-name = candra;
-position = "{591, 1187}";
 }
 );
 paths = (
@@ -117759,16 +117764,16 @@ position = "{760, 1187}";
 background = {
 anchors = (
 {
+name = candra;
+position = "{591, 1187}";
+},
+{
 name = nukta;
 position = "{93, -239}";
 },
 {
 name = top;
 position = "{760, 1187}";
-},
-{
-name = candra;
-position = "{591, 1187}";
 }
 );
 paths = (
@@ -118015,6 +118020,10 @@ position = "{729, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{654, -236}";
+},
+{
 name = candra;
 position = "{659, 1187}";
 },
@@ -118025,10 +118034,6 @@ position = "{46, -200}";
 {
 name = top;
 position = "{729, 1187}";
-},
-{
-name = bottom;
-position = "{654, -236}";
 }
 );
 paths = (
@@ -118238,6 +118243,10 @@ position = "{750, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{715, -336}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -118248,10 +118257,6 @@ position = "{46, -300}";
 {
 name = top;
 position = "{750, 1187}";
-},
-{
-name = bottom;
-position = "{715, -336}";
 }
 );
 paths = (
@@ -118470,6 +118475,10 @@ position = "{775, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{692, -297}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -118480,10 +118489,6 @@ position = "{46, -300}";
 {
 name = top;
 position = "{775, 1187}";
-},
-{
-name = bottom;
-position = "{692, -297}";
 }
 );
 paths = (
@@ -118715,6 +118720,10 @@ position = "{725, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{658, -228}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -118725,10 +118734,6 @@ position = "{46, -200}";
 {
 name = top;
 position = "{725, 1187}";
-},
-{
-name = bottom;
-position = "{658, -228}";
 }
 );
 paths = (
@@ -118969,6 +118974,10 @@ position = "{739, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{658, -225}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -118979,10 +118988,6 @@ position = "{46, -200}";
 {
 name = top;
 position = "{739, 1187}";
-},
-{
-name = bottom;
-position = "{658, -225}";
 }
 );
 paths = (
@@ -119206,6 +119211,10 @@ position = "{760, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{698, -270}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -119216,10 +119225,6 @@ position = "{46, -300}";
 {
 name = top;
 position = "{760, 1187}";
-},
-{
-name = bottom;
-position = "{698, -270}";
 }
 );
 paths = (
@@ -119452,6 +119457,10 @@ position = "{1234, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1234, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -119462,10 +119471,6 @@ position = "{46, -200}";
 {
 name = top;
 position = "{1234, 1187}";
-},
-{
-name = bottom;
-position = "{1234, 0}";
 }
 );
 paths = (
@@ -119665,6 +119670,10 @@ position = "{1355, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1355, -58}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -119675,10 +119684,6 @@ position = "{46, -300}";
 {
 name = top;
 position = "{1355, 1187}";
-},
-{
-name = bottom;
-position = "{1355, -58}";
 }
 );
 paths = (
@@ -119887,6 +119892,10 @@ position = "{1215, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1215, 0}";
+},
+{
 name = candra;
 position = "{789, 1187}";
 },
@@ -119897,10 +119906,6 @@ position = "{46, -200}";
 {
 name = top;
 position = "{1215, 1187}";
-},
-{
-name = bottom;
-position = "{1215, 0}";
 }
 );
 paths = (
@@ -120102,6 +120107,10 @@ position = "{1336, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{1336, -140}";
+},
+{
 name = candra;
 position = "{889, 1187}";
 },
@@ -120112,10 +120121,6 @@ position = "{46, -300}";
 {
 name = top;
 position = "{1336, 1187}";
-},
-{
-name = bottom;
-position = "{1336, -140}";
 }
 );
 paths = (
@@ -120413,6 +120418,10 @@ position = "{755, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{647, -310}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -120423,10 +120432,6 @@ position = "{46, -260}";
 {
 name = top;
 position = "{755, 1187}";
-},
-{
-name = bottom;
-position = "{647, -310}";
 }
 );
 paths = (
@@ -120700,6 +120705,10 @@ position = "{770, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{737, -350}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -120710,10 +120719,6 @@ position = "{46, -360}";
 {
 name = top;
 position = "{770, 1187}";
-},
-{
-name = bottom;
-position = "{737, -350}";
 }
 );
 paths = (
@@ -120996,6 +121001,10 @@ position = "{769, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{687, -240}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -121006,10 +121015,6 @@ position = "{146, -260}";
 {
 name = top;
 position = "{769, 1187}";
-},
-{
-name = bottom;
-position = "{687, -240}";
 }
 );
 paths = (
@@ -121263,6 +121268,10 @@ position = "{750, 1187}";
 background = {
 anchors = (
 {
+name = bottom;
+position = "{687, -300}";
+},
+{
 name = candra;
 position = "{689, 1187}";
 },
@@ -121273,10 +121282,6 @@ position = "{46, -356}";
 {
 name = top;
 position = "{750, 1187}";
-},
-{
-name = bottom;
-position = "{687, -300}";
 }
 );
 paths = (
@@ -121535,16 +121540,16 @@ position = "{775, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{775, 1187}";
-},
-{
 name = bottom;
 position = "{785, 0}";
 },
 {
 name = candra;
 position = "{779, 1187}";
+},
+{
+name = top;
+position = "{775, 1187}";
 }
 );
 paths = (
@@ -121700,16 +121705,16 @@ position = "{906, 1190}";
 background = {
 anchors = (
 {
-name = top;
-position = "{906, 1190}";
-},
-{
 name = bottom;
 position = "{906, 0}";
 },
 {
 name = candra;
 position = "{880, 1187}";
+},
+{
+name = top;
+position = "{906, 1190}";
 }
 );
 paths = (
@@ -127688,12 +127693,12 @@ position = "{96, -50}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{96, -50}";
-},
-{
 name = bottom;
 position = "{1105, 60}";
+},
+{
+name = nukta;
+position = "{96, -50}";
 }
 );
 paths = (
@@ -127859,12 +127864,12 @@ position = "{148, -140}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{148, -140}";
-},
-{
 name = bottom;
 position = "{1120, 20}";
+},
+{
+name = nukta;
+position = "{148, -140}";
 }
 );
 paths = (
@@ -129773,12 +129778,12 @@ position = "{1054, 950}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{413, 0}";
-},
-{
 name = bottom;
 position = "{1054, 0}";
+},
+{
+name = nukta;
+position = "{413, 0}";
 },
 {
 name = top;
@@ -129950,12 +129955,12 @@ position = "{1232, 950}";
 background = {
 anchors = (
 {
-name = nukta;
-position = "{483, -110}";
-},
-{
 name = bottom;
 position = "{1232, 0}";
+},
+{
+name = nukta;
+position = "{483, -110}";
 },
 {
 name = top;
@@ -156504,7 +156509,7 @@ unicode = 0901;
 },
 {
 glyphname = "candraBindu_reph-deva";
-lastChange = "2015-03-23 17:17:51 +0000";
+lastChange = "2015-04-11 06:32:33 +0000";
 layers = (
 {
 anchors = (
@@ -156612,16 +156617,16 @@ position = "{485, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{485, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{439, 1384}";
+},
+{
+name = top;
+position = "{485, 1187}";
 }
 );
 paths = (
@@ -156701,16 +156706,16 @@ position = "{489, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{489, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{489, 1384}";
+},
+{
+name = top;
+position = "{489, 1187}";
 }
 );
 paths = (
@@ -156798,16 +156803,16 @@ position = "{272, 1192}";
 background = {
 anchors = (
 {
-name = top;
-position = "{272, 1192}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{19, 1519}";
+},
+{
+name = top;
+position = "{272, 1192}";
 }
 );
 components = (
@@ -156893,16 +156898,16 @@ position = "{492, 1182}";
 background = {
 anchors = (
 {
-name = top;
-position = "{492, 1182}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{-25, 1603}";
+},
+{
+name = top;
+position = "{492, 1182}";
 }
 );
 components = (
@@ -157094,16 +157099,16 @@ position = "{487, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{487, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{555, 1363}";
+},
+{
+name = top;
+position = "{487, 1187}";
 }
 );
 paths = (
@@ -157183,16 +157188,16 @@ position = "{440, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{440, 1187}";
-},
-{
 name = _top;
 position = "{258, 1187}";
 },
 {
 name = candra;
 position = "{437, 1314}";
+},
+{
+name = top;
+position = "{440, 1187}";
 }
 );
 paths = (
@@ -157425,16 +157430,16 @@ position = "{400, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{400, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{45, 1563}";
+},
+{
+name = top;
+position = "{400, 1187}";
 }
 );
 components = (
@@ -157526,16 +157531,16 @@ position = "{484, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{484, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{75, 1653}";
+},
+{
+name = top;
+position = "{484, 1187}";
 }
 );
 components = (
@@ -157847,16 +157852,16 @@ position = "{441, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{441, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{445, 1383}";
+},
+{
+name = top;
+position = "{441, 1187}";
 }
 );
 paths = (
@@ -157972,16 +157977,16 @@ position = "{571, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{571, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{568, 1384}";
+},
+{
+name = top;
+position = "{571, 1187}";
 }
 );
 paths = (
@@ -159064,7 +159069,7 @@ width = 600;
 },
 {
 glyphname = "nukta_rakar_uuMatra-deva";
-lastChange = "2015-03-23 17:17:51 +0000";
+lastChange = "2015-04-11 06:30:50 +0000";
 layers = (
 {
 anchors = (
@@ -159170,16 +159175,16 @@ position = "{311, 1667}";
 background = {
 anchors = (
 {
-name = top;
-position = "{311, 1667}";
-},
-{
 name = _top;
 position = "{309, 1187}";
 },
 {
 name = candra;
 position = "{-158, 1387}";
+},
+{
+name = top;
+position = "{311, 1667}";
 }
 );
 paths = (
@@ -159259,16 +159264,16 @@ position = "{307, 1698}";
 background = {
 anchors = (
 {
-name = top;
-position = "{307, 1698}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{-298, 1457}";
+},
+{
+name = top;
+position = "{307, 1698}";
 }
 );
 paths = (
@@ -160799,16 +160804,16 @@ position = "{433, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{433, 1187}";
-},
-{
 name = _top;
 position = "{262, 1187}";
 },
 {
 name = candra;
 position = "{427, 1384}";
+},
+{
+name = top;
+position = "{433, 1187}";
 }
 );
 paths = (
@@ -160888,16 +160893,16 @@ position = "{462, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{462, 1187}";
-},
-{
 name = _top;
 position = "{266, 1187}";
 },
 {
 name = candra;
 position = "{547, 1324}";
+},
+{
+name = top;
+position = "{462, 1187}";
 }
 );
 paths = (
@@ -161043,16 +161048,16 @@ position = "{427, 1177}";
 background = {
 anchors = (
 {
-name = top;
-position = "{427, 1177}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{185, 1555}";
+},
+{
+name = top;
+position = "{427, 1177}";
 }
 );
 components = (
@@ -161142,16 +161147,16 @@ position = "{478, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{478, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{124, 1655}";
+},
+{
+name = top;
+position = "{478, 1187}";
 }
 );
 components = (
@@ -161347,16 +161352,16 @@ position = "{465, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{465, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{527, 1384}";
+},
+{
+name = top;
+position = "{465, 1187}";
 }
 );
 paths = (
@@ -161472,16 +161477,16 @@ position = "{512, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{512, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{587, 1384}";
+},
+{
+name = top;
+position = "{512, 1187}";
 }
 );
 paths = (
@@ -161663,16 +161668,16 @@ position = "{422, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{422, 1187}";
-},
-{
 name = _top;
 position = "{236, 1187}";
 },
 {
 name = candra;
 position = "{195, 1656}";
+},
+{
+name = top;
+position = "{422, 1187}";
 }
 );
 components = (
@@ -161758,16 +161763,16 @@ position = "{517, 1187}";
 background = {
 anchors = (
 {
-name = top;
-position = "{517, 1187}";
-},
-{
 name = _top;
 position = "{256, 1187}";
 },
 {
 name = candra;
 position = "{230, 1744}";
+},
+{
+name = top;
+position = "{517, 1187}";
 }
 );
 components = (
@@ -162109,7 +162114,7 @@ width = 600;
 {
 export = 0;
 glyphname = "rakar_uMatra-deva";
-lastChange = "2015-03-23 17:17:51 +0000";
+lastChange = "2015-04-11 06:28:57 +0000";
 layers = (
 {
 anchors = (
@@ -162692,6 +162697,69 @@ name = Bold;
 width = 620;
 }
 );
+},
+{
+glyphname = fontmetrics;
+lastChange = "2015-04-18 11:20:25 +0000";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"10 0 LINE",
+"10 1 LINE",
+"600 1 LINE",
+"600 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 -475 LINE",
+"10 -474 LINE",
+"600 -474 LINE",
+"600 -475 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 950 LINE",
+"10 951 LINE",
+"600 951 LINE",
+"600 950 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 1384 LINE",
+"10 1385 LINE",
+"600 1385 LINE",
+"600 1384 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 1472 LINE",
+"10 1473 LINE",
+"600 1473 LINE",
+"600 1472 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = UUID1;
+name = Bold;
+width = 600;
+}
+);
 }
 );
 instances = (
@@ -162734,6 +162802,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-max=44 --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites";
+},
+{
+name = "New Property";
+value = "New Value";
 }
 );
 interpolationWeight = 344;
@@ -164012,5 +164084,5 @@ UUID1 = {
 };
 };
 versionMajor = 1;
-versionMinor = 54;
+versionMinor = 56;
 }
