@@ -55,7 +55,7 @@ value = (
 );
 }
 );
-date = "2015-05-11 12:54:26 +0000";
+date = "2015-06-02 13:16:17 +0000";
 designer = "Robert Keller & Kimya Gandhi";
 designerURL = www.motaitalic.com;
 familyName = "Vesper Libre";
@@ -162836,7 +162836,7 @@ instances = (
 customParameters = (
 {
 name = "TTFAutohint options";
-value = "--hinting-range-max=44 --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites";
+value = "--hinting-range-min=12 --hinting-range-max=40 --default-script=deva --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites --strong-stem-width=\"\"";
 }
 );
 interpolationWeight = 179;
@@ -162846,7 +162846,7 @@ name = Regular;
 customParameters = (
 {
 name = "TTFAutohint options";
-value = "--hinting-range-max=44 --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites";
+value = "--hinting-range-min=12 --hinting-range-max=40 --default-script=deva --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites --strong-stem-width=\"\"";
 }
 );
 interpolationWeight = 242;
@@ -162857,7 +162857,7 @@ weightClass = Medium;
 customParameters = (
 {
 name = "TTFAutohint options";
-value = "--hinting-range-max=44 --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites";
+value = "--hinting-range-min=12 --hinting-range-max=40 --default-script=deva --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites --strong-stem-width=\"\"";
 }
 );
 interpolationWeight = 282;
@@ -162870,18 +162870,12 @@ weightClass = Bold;
 customParameters = (
 {
 name = "TTFAutohint options";
-value = "--hinting-range-max=44 --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites";
-},
-{
-name = "New Property";
-value = "New Value";
+value = "--hinting-range-min=12 --hinting-range-max=40 --default-script=deva --fallback-script=latn --hinting-limit=72 --windows-compatibility --composites --strong-stem-width=\"\"";
 }
 );
 interpolationWeight = 344;
-isBold = 1;
-linkStyle = Medium;
-name = Heavy;
-weightClass = Heavy;
+name = Black;
+weightClass = Black;
 }
 );
 kerning = {
@@ -162978,6 +162972,7 @@ colon = -90;
 "@MMK_R_x" = -110;
 };
 "@MMK_L_b-deva" = {
+"@MMK_R_ca-deva" = -190;
 "@MMK_R_dda-deva" = 17;
 "@MMK_R_ga-deva" = -200;
 "@MMK_R_gha-deva" = -80;
@@ -162985,14 +162980,13 @@ colon = -90;
 "@MMK_R_ja-deva" = -20;
 "@MMK_R_jha-deva" = -50;
 "@MMK_R_ka-deva" = -20;
+"@MMK_R_ma-deva" = -50;
+"@MMK_R_na-deva" = -110;
 "@MMK_R_nya-deva" = -40;
 "@MMK_R_pa-deva" = -100;
 "@MMK_R_ra-deva" = -30;
-"@MMK_R_ya-deva" = -20;
-"@MMK_R_na-deva" = -110;
-"@MMK_R_ca-deva" = -190;
 "@MMK_R_tha-deva" = -170;
-"@MMK_R_ma-deva" = -50;
+"@MMK_R_ya-deva" = -20;
 };
 "@MMK_L_c-deva" = {
 "@MMK_R_bha-deva" = -90;
@@ -163170,13 +163164,13 @@ space = -20;
 };
 "@MMK_L_l-deva" = {
 "@MMK_R_dda-deva" = -120;
+"@MMK_R_gha-deva" = -100;
 "@MMK_R_ha-deva" = -50;
 "@MMK_R_ja-deva" = 40;
 "@MMK_R_la-deva" = -70;
 "@MMK_R_ma-deva" = -120;
 "@MMK_R_pa-deva" = -70;
 "@MMK_R_ta-deva" = -60;
-"@MMK_R_gha-deva" = -100;
 };
 "@MMK_L_lla-deva" = {
 "@MMK_R_dda-deva" = 260;
@@ -163666,12 +163660,12 @@ quotedblright = 60;
 "@MMK_R_ja-deva" = -80;
 "@MMK_R_jha-deva" = -70;
 "@MMK_R_ka-deva" = -70;
+"@MMK_R_ma-deva" = -160;
 "@MMK_R_na-deva" = -60;
 "@MMK_R_pa-deva" = -80;
-"@MMK_R_ya-deva" = -70;
 "@MMK_R_ra-deva" = -40;
 "@MMK_R_tha-deva" = -70;
-"@MMK_R_ma-deva" = -160;
+"@MMK_R_ya-deva" = -70;
 };
 "@MMK_L_backslash" = {
 "@MMK_R_U" = -30;
@@ -163805,12 +163799,12 @@ space = 0;
 };
 "@MMK_L_l-deva" = {
 "@MMK_R_dda-deva" = -150;
+"@MMK_R_gha-deva" = -120;
 "@MMK_R_ha-deva" = -20;
 "@MMK_R_ja-deva" = -30;
 "@MMK_R_la-deva" = -10;
 "@MMK_R_ma-deva" = -110;
 "@MMK_R_pa-deva" = -50;
-"@MMK_R_gha-deva" = -120;
 };
 "@MMK_L_lla-deva" = {
 "@MMK_R_bha-deva" = -130;
@@ -163916,8 +163910,8 @@ space = 0;
 "@MMK_R_ra-deva" = -30;
 };
 "@MMK_L_space" = {
-"@MMK_R_lla-deva" = -10;
 "@MMK_R_ka-deva" = 0;
+"@MMK_R_lla-deva" = -10;
 };
 "@MMK_L_t-deva" = {
 "@MMK_R_bha-deva" = -40;
@@ -164227,5 +164221,5 @@ UUID1 = {
 };
 };
 versionMajor = 1;
-versionMinor = 58;
+versionMinor = 59;
 }
